@@ -9,3 +9,5 @@ Public repo for homework assignments, tutorials, and associated files for [CS 80
 [HW1](HW1.md) - RCR (due Jan 26, Week 2)
 
 [HW2](HW2.md) - Academic Presence (due Feb 9, Week 4)
+
+[HW3](HW3.md) - Research Paper Summary (due Feb 16, Week 5)
