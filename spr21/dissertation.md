@@ -28,7 +28,7 @@ After the submission deadline, I will download all presentations to the classroo
 ## Milestone Deadlines and Submission
 
 ### Milestone 1: Dissertation Selection
-**Due:** Tuesday, February 16, 2021 *before class*
+**Due:** Thursday, February 18, 2021 *before class*
 
 Work with your advisor to select an appropriate dissertation to read.  
 
