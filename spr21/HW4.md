@@ -33,7 +33,7 @@ Make sure that you have committed and pushed your local repo to the repository o
 
 Submit the URL of your repo in Blackboard:
 
-* Click on HW4 under Homeworks
+* Click on HW4 under Assignments
 * Under "Assignment Submission", click the "Write Submission" button.
 * Copy/paste the URL of your report into the edit box
   * should be something like ht<span>tps://</span>github.com/cs800-research-spr21/hw4-pubs-*username*/HW4-report.pdf
