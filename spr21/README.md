@@ -14,6 +14,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 80
 
 [HW4](HW4.md) - Publication Venues and BibTeX (due Feb 23, Week 6)
 
+[HW5](HW5.md) - Summary Revision (due Mar 11, Week 8)
+
 [Dissertation Presentation](dissertation.md)
 * Milestone 1: Dissertation Selection - due Tuesday, February 16, 2021 *before class*
 * Milestone 2: Draft of Presentation Slides - due Tuesday, March 23, 2021 by 11:59pm
