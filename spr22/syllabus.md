@@ -16,6 +16,8 @@ My office hours will be TBA (in-person and/or Zoom), or by appointment. See Blac
 
 ## Meeting Times and Course Delivery Method
 
+This course will be organized based on the "flipped classroom" model. Students will be assigned readings that will be due before the class meeting time. Class time will be spent on discussions of the readings and assignments, demonstrations, and in-class work. It is essential that each student be fully prepared to participate in class discussions each week.
+
 This course will be delivered in a hybrid method, with one face-to-face section in a traditional classroom and several online sections available:
 * CRN 30066 - in-person (GORNT 0205)
 * CRN 29711 - WC2 (in Hampton Roads)
