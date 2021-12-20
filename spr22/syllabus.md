@@ -26,7 +26,7 @@ This course will be delivered in a hybrid method, with one face-to-face section 
 
 All course materials, including the link to the Zoom class session, will be made available in Blackboard. The audio of in-person class meetings and all materials projected in class will be live streamed via Zoom and recorded for later viewing. *Online students are strongly encouraged to actively participate in the Zoom session during the regular class meeting time.* Online students must meet the same deadlines as face-to-face students. All deadlines are based on the local timezone in Norfolk, VA.
 
-### Spring 2021 COVID-19 Policies
+### Spring 2022 COVID-19 Policies
 
 As announced on [August 11](https://www.odu.edu/news/2021/8/message_from_preside), all students, faculty, and staff who participate in on-campus activites must be fully vaccinated or have received an exemption (and be tested weekly). In addition, face masks are required for all individuals in indoor public spaces, including classrooms.  I have been fully vaccinated.
 
