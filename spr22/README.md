@@ -1,10 +1,13 @@
 # ODU CS 800 - Research Methods, Spring 2022
 
-## Links
+TR 11am-12:15pm, GORNT 0205 and online via Zoom ([directions to Gornto Hall](https://clt.odu.edu/directions-to-gornto))
 
-* [Syllabus](syllabus.md)
-  * [summary schedule](syllabus.md#summary-schedule)
-* [Course Materials on Blackboard](https://www.blackboard.odu.edu/ultra/courses/_394465_1/cl/outline)
+[Syllabus](syllabus.md)
+
+[Blackboard Course](https://www.blackboard.odu.edu/ultra/courses/_394465_1/cl/outline)
+* Media Gallery (class meeting videos, link to office hours Zoom)
+* Discussion Board
+* Assignment submission
 
 ## Weekly Resources
 
