@@ -65,18 +65,18 @@ Although there will be no letter grades given, there will be required assignment
 |---|---|---|
 |1|	Jan 11, 13|	Course Intro, What's Grad School All About? | 
 |2|	Jan 18, 20|	Academic Presence, Research Careers | 
-|3|	Jan 25, 27|	Reading and Summarizing Academic Papers, Academic Communication - writing  |
-|4|	Feb 1, 3| Academic Publishing | 
-|5|	Feb 8, 10| Academic Reviewing, Academic Communication - presenting |
-|6|	Feb 15, 17|	Visualization Basics, Intro to R| 
-|7|	Feb 22, 24|	ODU-CS Faculty Presentations | 
-|8|	Mar 1, 3|	ODU-CS Faculty Presentations |
+|3|	Jan 25, 27|	Reading Academic Papers |
+|4|	Feb 1, 3| Academic Publishing and Reviewing | 
+|5|	Feb 8, 10| Academic Communication - writing  |
+|6|	Feb 15, 17|	Academic Communication - presenting | 
+|7|	Feb 22, 24|	Visualization Basics, Intro to R | 
+|8|	Mar 1, 3|	Grant Process, Grant Writing |
 ||	Mar 8, 11|	**NO CLASS - Spring Break** | 
 |9|	Mar 15, 17|	ODU-CS Faculty Presentations | 
 |10| Mar 22, 24|	ODU-CS Faculty Presentations | 
 |11| Mar 29, 31|	TBA | 
 |12| Apr 5, 7|	Student Dissertation Presentations | 
-|13| Apr 12, 14|	Student Dissertation Presentation |
+|13| Apr 12, 14|	Student Dissertation Presentations |
 |14| Apr 19, 21|	Student Dissertation Presentations |
 
 
