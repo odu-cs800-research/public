@@ -12,6 +12,8 @@ TR 11am-12:15pm, [GORNT 0205](https://clt.odu.edu/directions-to-gornto) and onli
 * [Assignment submission](https://www.blackboard.odu.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_10420859_1&course_id=_394465_1&mode=reset)
 * [Blackboard Calendar](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394465_1&tool_id=_152_1&tool_type=TOOL&mode=cpview&mode=reset)
 
+[GitHub Classroom](https://classroom.github.com/classrooms/58780854-odu-cs-800-research-methods-spring-2022)
+
 ## Schedule
 
 *Note: This is a tentative schedule and will be updated throughout the semester.*
