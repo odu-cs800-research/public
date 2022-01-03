@@ -1,6 +1,8 @@
 # CS 800, Spring 2022 Syllabus
 
-[Jump to Summary Schedule](#summary-schedule) | [Download printable PDF version](https://github.com/odu-cs800-research/public/raw/main/spr22/syllabus.pdf) - *coming soon*
+TR 11am-12:15pm, GORNT 0205 and online via Zoom
+
+[Download printable PDF version](https://github.com/odu-cs800-research/public/raw/main/spr22/syllabus.pdf) - *coming soon*
 
 *This is a required course for all new PhD students.*
 
@@ -12,7 +14,7 @@
 
 Dr. Michele Weigle: mweigle at cs.odu.edu, <https://www.cs.odu.edu/~mweigle/>
 
-My office hours will be TBA (in-person and/or Zoom), or by appointment. See Blackboard for the link to the Zoom office hours meeting room. For Zoom office hours, students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
+My office hours will be Tues 2-3:30pm (in-person ECSB 3327 or Zoom), Wed 5-6:30pm (Zoom only), or by appointment. See Blackboard for the link to the Zoom office hours meeting room. For Zoom office hours, students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
 
 ## Meeting Times and Course Delivery Method
 
