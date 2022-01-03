@@ -3,26 +3,41 @@
 ## Links
 
 * [Syllabus](syllabus.md)
+  * [summary schedule](syllabus.md#summary-schedule)
 * [Course Materials on Blackboard](https://www.blackboard.odu.edu/ultra/courses/_394465_1/cl/outline)
 
-## Summary Schedule
+## Weekly Resources
 
-*Tentative schedule, subject to change*
+#### Week 1 - Jan 11, 13
+Assignments: Personal Intro, HW0, HW1
 
-|Week |Class Date|Topic|Resources and Assignments| 
-|---|---|---|---|
-|1|	Jan 11, 13|	Course Intro, What's Grad School All About? | Personal Intro, HW0, HW1 |
-|2|	Jan 18, 20|	Academic Presence, Research Careers | HW2 |
-|3|	Jan 25, 27|	Reading and Summarizing Academic Papers, Academic Communication - writing  | HW3, HW - presentation |
-|4|	Feb 1, 3| Academic Publishing | HW4 |
-|5|	Feb 8, 10| Academic Reviewing, Academic Communication - presenting | |
-|6|	Feb 15, 17|	Visualization Basics, Intro to R| HW3 |
-|7|	Feb 22, 24|	ODU-CS Faculty Presentations | HW5 |
-|8|	Mar 1, 3|	ODU-CS Faculty Presentations | |
-||	Mar 8, 11|	**NO CLASS - Spring Break** | |
-|9|	Mar 15, 17|	ODU-CS Faculty Presentations | |
-|10| Mar 22, 24|	ODU-CS Faculty Presentations | |
-|11| Mar 29, 31|	TBA | |
-|12| Apr 5, 7|	Student Dissertation Presentations | | 
-|13| Apr 12, 14|	Student Dissertation Presentation | | 
-|14| Apr 19, 21|	Student Dissertation Presentations | | 
+#### Week 2 - Jan 18, 20
+Assignments: HW2
+
+#### Week 3 - Jan 25, 27
+Assignments: HW3, HW - presentation
+
+#### Week 4 - Feb 1, 3
+Assignments: HW4
+
+#### Week 5 - Feb 8, 10
+
+#### Week 6 - Feb 15, 17
+Assignments:  HW3 
+
+#### Week 7 - Feb 22, 24
+Assignments: HW5
+
+#### Week 8 - Mar 1, 3
+
+#### Week 9 - Mar 15, 17
+
+#### Week 10 - Mar 22, 24
+
+#### Week 11 - Mar 29, 31
+
+#### Week 12 - Apr 5, 7
+
+#### Week 13 - Apr 12, 14
+
+#### Week 14 - Apr 19, 21
