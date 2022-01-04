@@ -30,7 +30,9 @@ All course materials, including the link to the Zoom class session, will be made
 
 ### Spring 2022 COVID-19 Policies
 
-As announced on [August 11](https://www.odu.edu/news/2021/8/message_from_preside), all students, faculty, and staff who participate in on-campus activites must be fully vaccinated or have received an exemption (and be tested weekly). In addition, face masks are required for all individuals in indoor public spaces, including classrooms.  I have been fully vaccinated.
+As announced on [January 3](https://www.odu.edu/news/2022/1/covid_19_update_spri#.YdTMMixOn0o), all students, faculty, and staff who participate in on-campus activites must be fully vaccinated and boosted or have received an exemption (and be tested weekly). In addition, face masks are required for all individuals in indoor public spaces, including classrooms. 
+
+Students experiencing symptoms of COVID-19 should seek testing through the University's Student Health Center or their local health care provider and notify the University's COVID Cares Team at covidcares@odu.edu.
 
 Students who are uncomfortable with participating in the classroom are encouraged to switch to the WC2 section to enable other students who might prefer the face-to-face environment to have a seat.
 
@@ -47,7 +49,7 @@ There is no required textbook,  but here is an initial list of recommended books
 * [Clarity in Technical Reporting](https://www.cs.odu.edu/~mln/NASA-64-sp7010.pdf), by S. Katzoff, NASA SP-7010
 * Harbrace College Handbook, available for checkout at https://archive.org/stream/harbracecollege00hodg 
 
-In addition, see the online writing resources collected on the ODU-CS [New Student Resources page](https://graduate.cs.odu.edu/resources/new-students/#Writing).
+In addition, see the online writing resources collected on the ODU-CS [New Student Resources page](https://weiglemc.github.io/new-student/#writing).
 
 *We will be using several websites for class this semester. Our Blackboard page should be your first stop -- it contains links to all of the other sites that are needed.*
 
@@ -135,7 +137,7 @@ Students may still provide legitimate assistance to one another. You are encoura
 
 All students are responsible for knowing the rules. If you are unclear about whether a certain activity is allowed or not, please contact the instructor.
 
-More information on academic integrity is available on the ODU-CS [academic integrity page](https://graduate.cs.odu.edu/resources/academic-integrity).
+More information on academic integrity is available on the ODU-CS [academic integrity page](https://weiglemc.github.io/academic-integrity/).
 
 ## ODU Cares
 
