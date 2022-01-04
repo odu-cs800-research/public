@@ -6,8 +6,8 @@
 
 Due (before class):
 * [START HERE](https://www.blackboard.odu.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_10497348_1&course_id=_394465_1&mode=reset) tasks in Blackboard
-* Personal Intro
-* Skim Week-01-GradSchool slides
+* [Personal Intro](https://www.blackboard.odu.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_394465_1&nav=discussion_board_entry&conf_id=_457421_1&forum_id=_495768_1)
+* Skim [Week-01-GradSchool slides](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1)
 
 **Thurs, Jan 13** - What's Grad School All About? (slides 24-71)
 
