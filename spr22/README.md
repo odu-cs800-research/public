@@ -24,8 +24,8 @@ Click on the week number to get that week's agenda, reading assignment, and link
 
 |Week |Dates|Topic|HW Assigned|HW Due|
 |---|---|---|---|---|
-|[1](agenda.md#week-1)|	Jan 11, 13|	Course Intro, What's Grad School All About? | Personal Intro, HW1 | |
-|[2](agenda.md#week-2)|	Jan 18, 20|	Academic Presence, Research Careers | HW2 | |
+|[1](agenda.md#week-1)|	Jan 11, 13|	Course Intro, What's Grad School All About? | [Personal Intro](https://www.blackboard.odu.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_394465_1&nav=discussion_board_entry&conf_id=_457421_1&forum_id=_495768_1), [HW1](HW1.md) | |
+|[2](agenda.md#week-2)|	Jan 18, 20|	Academic Presence, Research Careers | HW2 | HW1 |
 |[3](agenda.md#week-3)|	Jan 25, 27|	Reading Academic Papers | HW3, HW - presentation | | 
 |[4](agenda.md#week-4)|	Feb 1, 3| Academic Publishing and Reviewing | HW4 | |
 |[5](agenda.md#week-5)|	Feb 8, 10| Academic Communication - writing  |
