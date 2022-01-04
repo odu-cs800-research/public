@@ -4,6 +4,7 @@
 Jan 11, 13
 
 Slide References
+* ODU CS PhD requirements, https://odu.edu/compsci/academics/graduate/phd
 * Vijay Chidambaram, [Answer to "What are the main differences between a Masters and a PhD in computer science?"](https://www.quora.com/What-are-the-main-differences-between-a-Masters-and-a-PhD-in-computer-science/answer/Vijay-Chidambaram), quora.com, 2012
 * Svilen Kanev, ["Why (Not) Do a PhD in Computer Science?"](http://blog.skanev.org/2013/03/why-not-do-phd-in-computer-science.html), 2013
 * Ron Azuma, ["So long, and thanks for the Ph.D.!"](http://www.cs.unc.edu/~azuma/hitch4.html), originally written 1997, last updated Feb 2019 - archived at https://web.archive.org/web/20190530222716/http://www.cs.unc.edu:80/~azuma/hitch4.html
@@ -30,7 +31,7 @@ Slide References
 * [ODU WS-DL GitHub Organization](https://github.com/oduwsdl)
   * https://github.com/oduwsdl/MementoEmbed
   * https://github.com/oduwsdl/sumgram
-* ODU-CS, [Academic Integrity](https://graduate.cs.odu.edu/resources/academic-integrity/)
+* ODU-CS, [Academic Integrity](https://graduate.cs.odu.edu/resources/academic-integrity/) - *link to be updated*
 * Tamara Munzner, ["Cheating: The List Of Things I Never Want To Hear Again"](https://www.cs.ubc.ca/~tmm/courses/cheat.html), 2016
 
 ## Week 2
