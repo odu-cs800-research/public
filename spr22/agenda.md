@@ -11,12 +11,12 @@ Due (before class):
 
 **Thurs, Jan 13** - What's Grad School All About?
 
+[References and Additional Resources for Week 1](resources.md#week-1)
+
 Assignments:
 * Finish all START HERE tasks
 * [HW1](HW1.md) - Course Setup
 * Review [Week 2](#week-2) materials and complete the reading assignment before class
-
-[References and Additional Resources for Week 1](resources.md#week-1)
 
 ## Week 2
 Jan 18, 20
