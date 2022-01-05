@@ -2,7 +2,7 @@
 
 TR 11am-12:15pm, GORNT 0205 and online via Zoom
 
-[Download printable PDF version](https://github.com/odu-cs800-research/public/raw/main/spr22/syllabus.pdf) - *coming soon*
+[Download printable PDF version](https://github.com/odu-cs800-research/public/raw/main/spr22/syllabus.pdf) 
 
 *This is a required course for all new PhD students.*
 
