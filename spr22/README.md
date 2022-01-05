@@ -24,18 +24,18 @@ Click on the week number to get that week's agenda, reading assignment, and link
 
 |Week |Dates|Topic|HW Assigned|HW Due|
 |---|---|---|---|---|
-|[1](agenda.md#week-1)|	Jan 11, 13|	Course Intro, What's Grad School All About? | [Personal Intro](https://www.blackboard.odu.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_394465_1&nav=discussion_board_entry&conf_id=_457421_1&forum_id=_495768_1), [HW1](HW1.md) | Personal Intro |
-|[2](agenda.md#week-2)|	Jan 18, 20|	Academic Presence, Research Careers | HW2 | HW1 |
-|[3](agenda.md#week-3)|	Jan 25, 27|	Reading Academic Papers, Writing Summaries | HW3, HW - presentation | HW2 | 
+|[1](agenda.md#week-1)|	Jan 11, 13|	Course Intro, What's Grad School All About? | [Personal Intro](https://www.blackboard.odu.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_394465_1&nav=discussion_board_entry&conf_id=_457421_1&forum_id=_495768_1), [HW1](HW1.md) | Personal Intro (Jan 11) |
+|[2](agenda.md#week-2)|	Jan 18, 20|	Academic Presence, Research Tools | HW2 | HW1 (Jan 18) |
+|[3](agenda.md#week-3)|	Jan 25, 27|	Research Careers, Reading Academic Papers | HW3, HW - presentation | HW2 (Jan 25) | 
 |[4](agenda.md#week-4)|	Feb 1, 3| Academic Publishing and Reviewing | HW4 | |
-|[5](agenda.md#week-5)|	Feb 8, 10| Academic Communication - writing  |
+|[5](agenda.md#week-5)|	Feb 8, 10| Academic Communication - writing, Writing Summaries | HW5 | |
 |[6](agenda.md#week-6)|	Feb 15, 17|	Academic Communication - presenting |  | |
-|[7](agenda.md#week-7)|	Feb 22, 24|	Visualization Basics, Intro to R | HW5 | | 
-|[8](agenda.md#week-8)|	Mar 1, 3|	Grant Process, Grant Writing |
+|[7](agenda.md#week-7)|	Feb 22, 24|	Visualization Basics |  | | 
+|[8](agenda.md#week-8)|	Mar 1, 3|	Grant Process, Grant Writing | HW6 | |
 ||	Mar 8, 11|	**NO CLASS - Spring Break** | 
-|[9](agenda.md#week-9)|	Mar 15, 17|	ODU-CS Faculty Presentations | 
-|[10](agenda.md#week-10)| Mar 22, 24|	ODU-CS Faculty Presentations | 
-|[11](agenda.md#week-11)| Mar 29, 31|	TBA | 
-|[12](agenda.md#week-12)| Apr 5, 7|	Student Dissertation Presentations | 
-|[13](agenda.md#week-13)| Apr 12, 14|	Student Dissertation Presentations |
-|[14](agenda.md#week-14)| Apr 19, 21|	Student Dissertation Presentations |
+|[9](agenda.md#week-9)|	Mar 15, 17|	ODU-CS Faculty Presentations | | |
+|[10](agenda.md#week-10)| Mar 22, 24|	ODU-CS Faculty Presentations | | |
+|[11](agenda.md#week-11)| Mar 29, 31|	TBA | | | 
+|[12](agenda.md#week-12)| Apr 5, 7|	Student Dissertation Presentations | | |
+|[13](agenda.md#week-13)| Apr 12, 14|	Student Dissertation Presentations | | |
+|[14](agenda.md#week-14)| Apr 19, 21|	Student Dissertation Presentations | | |
