@@ -36,6 +36,6 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[9](agenda.md#week-9)|	Mar 15, 17|	ODU-CS Faculty Presentations | | |
 |[10](agenda.md#week-10)| Mar 22, 24|	ODU-CS Faculty Presentations | | HW6 (Mar 24) |
 |[11](agenda.md#week-11)| Mar 29, 31|	TBA | | | 
-|[12](agenda.md#week-12)| Apr 5, 7|	Student Dissertation Presentations | | |
+|[12](agenda.md#week-12)| Apr 5, 7|	Student Dissertation Presentations | | HW - presentation (Apr 5)|
 |[13](agenda.md#week-13)| Apr 12, 14|	Student Dissertation Presentations | | |
 |[14](agenda.md#week-14)| Apr 19, 21|	Student Dissertation Presentations | | |
