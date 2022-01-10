@@ -1,7 +1,9 @@
 # References and Additional Resources
 
 ## Week 1
-Jan 11, 13
+**Tues, Jan 11** - Course Intro, What's Grad School All About? 
+
+**Thurs, Jan 13** - What's Grad School All About?
 
 Slide References
 * ODU CS PhD requirements, https://odu.edu/compsci/academics/graduate/phd
