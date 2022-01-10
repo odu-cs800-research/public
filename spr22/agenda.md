@@ -19,12 +19,24 @@ Assignments:
 ## Week 2
 [References and Additional Resources for Week 2](resources.md#week-2)
 
-Jan 18, 20
+**Tues, Jan 18** - Academic Presence
+
+Due (before 11:59pm):
+* HW1
+
+[Week-02a-Presence slides](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing)
+
+**Thu, Jan 20** - Research Tools
+
+*Materials/assignments to be added*
 
 ## Week 3
 [References and Additional Resources for Week 3](resources.md#week-3)
 
 Jan 25, 27
+
+
+*Materials/assignments to be added*
 
 ## Week 4
 [References and Additional Resources for Week 4](resources.md#week-4)
@@ -32,26 +44,38 @@ Jan 25, 27
 Feb 1, 3
 
 
+*Materials/assignments to be added*
+
 ## Week 5
 [References and Additional Resources for Week 5](resources.md#week-5)
 
 Feb 8, 10
+
+
+*Materials/assignments to be added*
 
 ## Week 6
 [References and Additional Resources for Week 6](resources.md#week-6)
 
 Feb 15, 17
 
+
+*Materials/assignments to be added*
+
 ## Week 7
 [References and Additional Resources for Week 7](resources.md#week-7)
 
 Feb 22, 24
+
+
+*Materials/assignments to be added*
 
 ## Week 8
 [References and Additional Resources for Week 8](resources.md#week-8)
 
 Mar 1, 3
 
+*Materials/assignments to be added*
 
 ## Week 9
 [References and Additional Resources for Week 9](resources.md#week-9)
@@ -59,11 +83,15 @@ Mar 1, 3
 Mar 15, 17
 
 
+*Materials/assignments to be added*
+
 ## Week 10
 [References and Additional Resources for Week 10](resources.md#week-10)
 
 Mar 22, 24
 
+
+*Materials/assignments to be added*
 
 ## Week 11
 [References and Additional Resources for Week 11](resources.md#week-11)
@@ -71,20 +99,27 @@ Mar 22, 24
 Mar 29, 31
 
 
+*Materials/assignments to be added*
+
 ## Week 12
 [References and Additional Resources for Week 12](resources.md#week-12)
 
 Apr 5, 7
 
 
+*Materials/assignments to be added*
+
 ## Week 13
 [References and Additional Resources for Week 13](resources.md#week-13)
 
 Apr 12, 14
 
+*Materials/assignments to be added*
 
 ## Week 14
 [References and Additional Resources for Week 14](resources.md#week-14)
 
 Apr 19, 21
 
+
+*Materials/assignments to be added*
