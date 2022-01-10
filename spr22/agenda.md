@@ -1,6 +1,7 @@
 # Semester Agenda
 
 ## Week 1
+[References and Additional Resources for Week 1](resources.md#week-1)
 
 **Tues, Jan 11** - Course Intro, What's Grad School All About? 
 
@@ -10,8 +11,6 @@ Due (before class):
 * Skim [Week-01-GradSchool slides](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1)
 
 **Thurs, Jan 13** - What's Grad School All About?
-
-[References and Additional Resources for Week 1](resources.md#week-1)
 
 Assignments:
 * [HW1](HW1.md) - Course Setup
