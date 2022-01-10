@@ -17,74 +17,74 @@ Assignments:
 * Review [Week 2](#week-2) materials and complete the reading assignment before class
 
 ## Week 2
+[References and Additional Resources for Week 2](resources.md#week-2)
+
 Jan 18, 20
 
-Assignments: HW2
-
 ## Week 3
-Jan 25, 27
-
 [References and Additional Resources for Week 3](resources.md#week-3)
 
-Assignments: HW3, HW - presentation
+Jan 25, 27
 
 ## Week 4
-Feb 1, 3
-
 [References and Additional Resources for Week 4](resources.md#week-4)
 
-Assignments: HW4
+Feb 1, 3
+
 
 ## Week 5
-Feb 8, 10
-
 [References and Additional Resources for Week 5](resources.md#week-5)
 
-## Week 6
-Feb 15, 17
+Feb 8, 10
 
+## Week 6
 [References and Additional Resources for Week 6](resources.md#week-6)
 
-Assignments:  HW3 
+Feb 15, 17
 
 ## Week 7
-Feb 22, 24
-
 [References and Additional Resources for Week 7](resources.md#week-7)
 
-Assignments: HW5
+Feb 22, 24
 
 ## Week 8
-Mar 1, 3
-
 [References and Additional Resources for Week 8](resources.md#week-8)
 
-## Week 9
-Mar 15, 17
+Mar 1, 3
 
+
+## Week 9
 [References and Additional Resources for Week 9](resources.md#week-9)
 
-## Week 10
-Mar 22, 24
+Mar 15, 17
 
+
+## Week 10
 [References and Additional Resources for Week 10](resources.md#week-10)
 
-## Week 11
-Mar 29, 31
+Mar 22, 24
 
+
+## Week 11
 [References and Additional Resources for Week 11](resources.md#week-11)
 
-## Week 12
-Apr 5, 7
+Mar 29, 31
 
+
+## Week 12
 [References and Additional Resources for Week 12](resources.md#week-12)
 
-## Week 13
-Apr 12, 14
+Apr 5, 7
 
+
+## Week 13
 [References and Additional Resources for Week 13](resources.md#week-13)
 
+Apr 12, 14
+
+
 ## Week 14
+[References and Additional Resources for Week 14](resources.md#week-14)
+
 Apr 19, 21
 
-[References and Additional Resources for Week 14](resources.md#week-14)
