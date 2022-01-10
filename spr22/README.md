@@ -33,7 +33,7 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[7](agenda.md#week-7)|	Feb 22, 24|	Visualization Basics |  | HW5 (Feb 22) | 
 |[8](agenda.md#week-8)|	Mar 1, 3|	Grant Process, Grant Writing | HW6 | |
 ||	Mar 8, 11|	**NO CLASS - Spring Break** | 
-|[9](agenda.md#week-9)|	Mar 15, 17|	ODU-CS Faculty Presentations | | |
+|[9](agenda.md#week-9)|	Mar 15, 17|	ODU-CS Faculty Presentations<br/>Tue: Dr. Jiangwen Sun | | |
 |[10](agenda.md#week-10)| Mar 22, 24|	ODU-CS Faculty Presentations | | HW6 (Mar 24) |
 |[11](agenda.md#week-11)| Mar 29, 31|	TBA | | | 
 |[12](agenda.md#week-12)| Apr 5, 7|	Student Dissertation Presentations | | HW - presentation (Apr 5)|
