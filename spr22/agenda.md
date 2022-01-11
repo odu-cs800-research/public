@@ -3,7 +3,7 @@
 ## Week 1
 [References and Additional Resources for Week 1](resources.md#week-1)
 
-**Tues, Jan 11** - Course Intro, What's Grad School All About? 
+**Tues, Jan 11** - Course Intro
 
 Due (before class):
 * [START HERE](https://www.blackboard.odu.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_10497348_1&course_id=_394465_1&mode=reset) tasks in Blackboard
