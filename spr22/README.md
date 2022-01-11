@@ -7,7 +7,7 @@ TR 11am-12:15pm, [GORNT 0205](https://clt.odu.edu/directions-to-gornto) and onli
 [Syllabus](syllabus.md)
 
 [Blackboard Course](https://www.blackboard.odu.edu/ultra/courses/_394465_1/cl/outline)
-* [Media Gallery](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394465_1&tool_id=_5549_1&tool_type=TOOL&mode=cpview&mode=reset) (class meeting videos, link to office hours Zoom)
+* [Media Gallery](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394465_1&tool_id=_5549_1&tool_type=TOOL&mode=cpview&mode=reset) (class meeting videos)
 * [Discussion Board](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394465_1&tool_id=_2588_1&tool_type=TOOL&mode=cpview&mode=reset)
 * [Assignment submission](https://www.blackboard.odu.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_10420859_1&course_id=_394465_1&mode=reset)
 * [Blackboard Calendar](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394465_1&tool_id=_152_1&tool_type=TOOL&mode=cpview&mode=reset)
