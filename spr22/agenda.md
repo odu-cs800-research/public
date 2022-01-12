@@ -23,8 +23,7 @@ Assignments:
 
 **Tues, Jan 18** - Academic Presence
 
-Due (before 11:59pm):
-* HW1
+Due (before 11:59pm): HW1
 
 [Week-02a-Presence slides](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing)
 
