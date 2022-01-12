@@ -1,5 +1,7 @@
 # Semester Agenda
 
+*Video recordings of class meetings will typically be posted in the Blackboard Media Gallery within a few hours of class.*
+
 ## Week 1
 [References and Additional Resources for Week 1](resources.md#week-1)
 
