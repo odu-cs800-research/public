@@ -18,7 +18,7 @@ Materials:
 
 **Assignments**
 * [HW1](HW1.md) - Course Setup
-* Review [Week 2](#week-2) materials and complete the reading assignment before class
+* Review next week's materials
 
 ## Week 2
 [References and Additional Resources for Week 2](resources.md#week-2)
