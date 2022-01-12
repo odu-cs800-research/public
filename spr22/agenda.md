@@ -10,11 +10,13 @@
 Due (before class):
 * [START HERE](https://www.blackboard.odu.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_10497348_1&course_id=_394465_1&mode=reset) tasks in Blackboard
 * [Personal Intro](https://www.blackboard.odu.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_394465_1&nav=discussion_board_entry&conf_id=_457421_1&forum_id=_495768_1)
-* Skim [Week-01-GradSchool slides](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1)
 
 **Thurs, Jan 13** - What's Grad School All About?
 
-Assignments:
+Materials:
+* [Week-01-GradSchool slides](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1)
+
+**Assignments**
 * [HW1](HW1.md) - Course Setup
 * Review [Week 2](#week-2) materials and complete the reading assignment before class
 
@@ -23,13 +25,19 @@ Assignments:
 
 **Tues, Jan 18** - Academic Presence
 
-Due (before 11:59pm): HW1
+Due (before 11:59pm): 
+* HW1
 
-[Week-02a-Presence slides](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing)
+Materials: 
+* [Week-02a-Presence slides](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing)
 
 **Thu, Jan 20** - Research Tools
 
-*Materials/assignments to be added*
+*Materials to be added*
+
+**Assignments**
+* [HW2](HW2.md) - Establishing an Academic Presence
+* Review next week's materials
 
 ## Week 3
 [References and Additional Resources for Week 3](resources.md#week-3)
