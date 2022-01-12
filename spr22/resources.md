@@ -21,6 +21,7 @@ Slide References
 * [ODU Counseling Services](https://www.odu.edu/counselingservices)
 * Tamara Munzner, [Research Group Policies](https://www.cs.ubc.ca/~tmm/policy.txt), last revision 2019
 * Jimmy Lin, [What working with me is like](https://github.com/lintool/guide/blob/master/what-working-with-me-is-like.md), last revision 2021
+* Nick Feamster, [Do You Need a PhD?](https://medium.com/great-research/do-you-need-a-ph-d-f78d2fb0f286)
 
 ## Week 2
 **Tues, Jan 18** - Academic Presence
