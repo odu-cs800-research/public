@@ -23,7 +23,38 @@ Slide References
 * Jimmy Lin, [What working with me is like](https://github.com/lintool/guide/blob/master/what-working-with-me-is-like.md), last revision 2021
 
 ## Week 2
-Jan 18, 20
+**Tues, Jan 18** - Academic Presence
+
+Slide References
+* Dr. Michael Nelson’s Nov 2019 WS-DL Luncheon presentation, [“The Spectrum of Scholarly Communication”](https://docs.google.com/presentation/d/1FQfDkPpsw_mVSVn_cwMiBCJbnrdRnyjsUbworMIdL-I/) and [updated version for CS 395-Spring 2020](https://docs.google.com/presentation/d/1IwxSSkiDute5iwphX5_xbLly3cm85Hgo08BX1s1SlzA/)
+* Shawn Jones, [Journey to a Career in Computer Science: Online Networking](https://docs.google.com/presentation/d/1Puz_7TaJAN1aC6TpCRKyoNyUS8SIvj4gpgOsVVp2OAg/), presentation for ODU's Office of Intercultural Relations (OIR), Sep 2021.
+* Tweet about establishing an academic webpage, https://twitter.com/merrierm/status/1205550389187100672
+* Good academic webpage examples
+  * Alexander Nwala, ODU, https://alexandernwala.com/
+  * Jane Hosffswell, Washington, https://homes.cs.washington.edu/~jhoffs/
+  * Yang Liu, Washington, https://yangliu.life/#/
+  * Tongshuang Wu, Washington, https://homes.cs.washington.edu/~wtshuang/
+  * Zipeng Liu, Univ of British Columbia, https://zipengliu.github.io/
+* Dr. Weigle's Google Scholar, https://scholar.google.com/citations?user=MOLPTqcAAAAJ&hl=en
+* Dr. Weigle's ORCID, http://orcid.org/0000-0002-2787-7166
+* Laurence Horton, [“Digital Object Identifiers: Stability for citations and referencing, but not proxies for quality”](https://blogs.lse.ac.uk/impactofsocialsciences/2015/04/23/digital-object-identifiers-stability-for-citations/)
+* [WS-DL's news coverage](http://web.archive.org/web/20180516150645/https://storify.com/michaelnelson/coverage-of-ws-dl-members-and-research.html)
+* Dr. Weigle's GitHub, https://github.com/weiglemc
+* [GitHub Pages](https://pages.github.com)
+* WS-DL's GitHub organization, https://github.com/oduwsdl
+* @ODUCS Twitter following and followers, https://twitter.com/oducs/following, https://twitter.com/oducs/followers
+* Twitter accounts of ODU-CS faculty and research groups, https://twitter.com/i/lists/1479504235377086471/members
+* Example good tweet threads
+   * https://twitter.com/acnwala/status/1141384171396317184
+   * https://twitter.com/phonedude_mln/status/1134068797747421185
+* Best time to post on social media, https://sproutsocial.com/insights/best-times-to-post-on-social-media
+* WS-DL kudos
+  * https://twitter.com/hrbrmstr/status/1387218422640021509
+  * https://twitter.com/internetarchive/status/1440030584445673483
+  * https://twitter.com/internetarchive/status/1391060395406675973
+  * https://twitter.com/hrbrmstr/status/1471297354338873350
+
+**Thu, Jan 20** - Research Tools
 
 ## Week 3
 Jan 25, 27
