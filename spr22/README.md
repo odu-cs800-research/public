@@ -31,11 +31,11 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[5](agenda.md#week-5)|	Feb 8, 10| Academic Communication - writing, Writing Summaries<br/>Thu: Karen Vaughn, ODU Libraries | HW5 | HW4 (Feb 8) |
 |[6](agenda.md#week-6)|	Feb 15, 17|	Academic Communication - presenting<br/>Thu: Megan Boeshart, ODU Writing Center |  | |
 |[7](agenda.md#week-7)|	Feb 22, 24|	Visualization Basics<br/>Thu: Dr. Martin Klein, LANL (ODU 2011)|  | HW5 (Feb 22) | 
-|[8](agenda.md#week-8)|	Mar 1, 3|	Grant Process, Grant Writing<br/>Tue: Dr. Justin Brunelle, MITRE (ODU 2016)<br/>Thu: Dr Alexander Nwala, Indiana Univ (ODU 2020)| HW6 | |
+|[8](agenda.md#week-8)|	Mar 1, 3|	Grant Process, Grant Writing<br/>Tue: Dr. Justin Brunelle, MITRE (ODU 2016)<br/>Dr. Ahmed AlSum (ODU 2014)| HW6 | |
 ||	Mar 8, 11|	**NO CLASS - Spring Break** | 
 |[9](agenda.md#week-9)|	Mar 15, 17|	ODU-CS Faculty Presentations<br/>Tue: Dr. Jiangwen Sun | | |
 |[10](agenda.md#week-10)| Mar 22, 24|	ODU-CS Faculty Presentations | | HW6 (Mar 24) |
-|[11](agenda.md#week-11)| Mar 29, 31|	Tue: Dr. Mohammad Almalag, CNU (ODU 2013)| | | 
+|[11](agenda.md#week-11)| Mar 29, 31|	Tue: Dr. Mohammad Almalag, CNU (ODU 2013)<br/>Thu: Dr. Alexander Nwala, Indiana Univ (ODU 2020)| | | 
 |[12](agenda.md#week-12)| Apr 5, 7|	Student Dissertation Presentations | | HW - presentation (Apr 5)|
 |[13](agenda.md#week-13)| Apr 12, 14|	Student Dissertation Presentations | | |
 |[14](agenda.md#week-14)| Apr 19, 21|	Student Dissertation Presentations | | |
