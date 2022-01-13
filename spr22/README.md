@@ -31,7 +31,7 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[5](agenda.md#week-5)|	Feb 8, 10| Academic Communication - writing, Writing Summaries<br/>Thu: Karen Vaughn, ODU Libraries | HW5 | HW4 (Feb 8) |
 |[6](agenda.md#week-6)|	Feb 15, 17|	Academic Communication - presenting<br/>Thu: Megan Boeshart, ODU Writing Center |  | |
 |[7](agenda.md#week-7)|	Feb 22, 24|	Visualization Basics<br/>Thu: Dr. Martin Klein, LANL (ODU 2011)|  | HW5 (Feb 22) | 
-|[8](agenda.md#week-8)|	Mar 1, 3|	Grant Process, Grant Writing<br/>Tue: Dr. Justin Brunelle, MITRE (ODU 2016)<br/>Dr. Ahmed AlSum (ODU 2014)| HW6 | |
+|[8](agenda.md#week-8)|	Mar 1, 3|	Grant Process, Grant Writing<br/>Tue: Dr. Justin Brunelle, MITRE (ODU 2016)<br/>Thu: Dr. Ahmed AlSum (ODU 2014)| HW6 | |
 ||	Mar 8, 11|	**NO CLASS - Spring Break** | 
 |[9](agenda.md#week-9)|	Mar 15, 17|	ODU-CS Faculty Presentations<br/>Tue: Dr. Jiangwen Sun | | |
 |[10](agenda.md#week-10)| Mar 22, 24|	ODU-CS Faculty Presentations | | HW6 (Mar 24) |
