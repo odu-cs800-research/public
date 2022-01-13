@@ -14,7 +14,7 @@ Due (before class):
 **Thurs, Jan 13** - What's Grad School All About?
 
 Materials:
-* [Week-01-GradSchool slides](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1)
+* [Week-01-GradSchool slides](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1) (slides 1-45)
 
 **Assignments**
 * [HW1](HW1.md) - Course Setup
@@ -29,6 +29,7 @@ Due (before 11:59pm):
 * HW1
 
 Materials: 
+* [Week-01-GradSchool slides](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1) (slides 46-66)
 * [Week-02a-Presence slides](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing)
 
 **Thu, Jan 20** - Research Tools
