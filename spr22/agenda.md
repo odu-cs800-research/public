@@ -34,7 +34,8 @@ Materials:
 
 **Thu, Jan 20** - Research Tools
 
-*Materials to be added*
+Materials:
+* [Week-02b-ResearchTools slides](https://docs.google.com/presentation/d/1huRXTyWqSY_3SH8BNt0blcKm0XEMj1Vx2QiWYQO1lV0/edit?usp=sharing)
 
 **Assignments**
 * [HW2](HW2.md) - Establishing an Academic Presence
