@@ -22,6 +22,7 @@ Slide References
 * Tamara Munzner, [Research Group Policies](https://www.cs.ubc.ca/~tmm/policy.txt), last revision 2019
 * Jimmy Lin, [What working with me is like](https://github.com/lintool/guide/blob/master/what-working-with-me-is-like.md), last revision 2021
 * Nick Feamster, [Do You Need a PhD?](https://medium.com/great-research/do-you-need-a-ph-d-f78d2fb0f286)
+* Niklas Elmqvist, [Preparing for the Big Day](https://niklaselmqvist.medium.com/preparing-for-the-big-day-2153f7306300)
 
 ## Week 2
 **Tues, Jan 18** - Academic Presence
