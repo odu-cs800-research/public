@@ -58,6 +58,50 @@ Slide References
 
 **Thu, Jan 20** - Research Tools
 
+Slide References
+* [Google Colab](https://colab.research.google.com)
+ * Overview of Colaboratory, https://colab.research.google.com/notebooks/basic_features_overview.ipynb
+ * CS 432/532 Python Example, https://colab.research.google.com/github/odu-cs432-websci/public/blob/main/fall21/432_F21_NetworkX_example.ipynb
+ * CS 432/532 R Example, https://colab.research.google.com/github/odu-cs432-websci/public/blob/main/fall21/432_F21_Mod03_InfoVis_R.ipynb
+ * Create a new R notebook: https://colab.research.google.com/notebook#create=true&language=r
+* [Observable](https://observablehq.com/)
+  * A Taste of Observable, https://observablehq.com/@observablehq/a-taste-of-observable
+  * CS 725/825 JavaScript Example, https://observablehq.com/@weiglemc/javascript-map-datatype-example
+  * CS 725/825 D3 Example, https://observablehq.com/@weiglemc/clustering-example-with-d3 
+  * Dr. Weigle's Public Observable notebooks, https://observablehq.com/@weiglemc
+* [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu)
+   * lectures videos, https://www.youtube.com/c/MissingSemester
+* [ODU WS-DL GitHub Organization](https://github.com/oduwsdl)
+  * https://github.com/oduwsdl/MementoEmbed
+  * https://github.com/oduwsdl/sumgram
+* [Git](https://git-scm.com/)
+  * notes, resources, and exercises (from MIT's missing semester): https://missing.csail.mit.edu/2020/version-control/
+  * lecture video (from MIT's Missing Semester): https://www.youtube.com/watch?v=2sjqTHE0zok 
+  * Mr. Thomas Kennedy's (ODU) Git Tutorial, https://git.cs.odu.edu/tkennedy/git-workshop/-/wikis/Git-Workshop 
+  * git - the simple guide, https://rogerdudler.github.io/git-guide/ 
+  * Git and VSCode integration, https://code.visualstudio.com/docs/editor/versioncontrol
+* [GitHub](https://www.github.com)
+   * Dr. Weigle's GitHub, https://github.com/weiglemc
+   * Collaborating with Pull Requests, https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models 
+   * How to Sync Forked Repositories Using Git or Github, https://levelup.gitconnected.com/how-to-sync-forked-repositories-using-git-or-github-2933e497fa16
+* GitHub Issues Examples
+   * https://github.com/oduwsdl/sumgram/issues
+   * https://github.com/oduwsdl/sumgram/issues/26
+* LaTeX
+   * Free online introduction to LaTeX (HW1), https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1) 
+   * Learn LaTeX in 30 minutes, https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes 
+   * Learn LaTeX, https://www.learnlatex.org/en/ 
+* BibTeX
+   * Format, http://www.bibtex.org/Format/ 
+   * Entry types, https://www.bibtex.com/e/entry-types/ 
+   * Example document at Overleaf using BibTeX, https://www.overleaf.com/project/5e4bfe2d474903000194980d 
+* Reference management tools, https://en.wikipedia.org/wiki/Comparison_of_reference_management_software
+  * Zotero - https://www.zotero.org (BibTeX plugin: https://github.com/retorquere/zotero-better-bibtex)
+  * BibDesk - https://bibdesk.sourceforge.io
+  * Mendeley - https://www.mendeley.com/
+  * EndNote - https://endnote.com
+  * PaperPile - https://paperpile.com/ 
+
 ## Week 3
 Jan 25, 27
 
