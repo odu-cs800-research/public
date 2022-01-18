@@ -6,11 +6,8 @@ TR 11am-12:15pm, [GORNT 0205](https://clt.odu.edu/directions-to-gornto) and onli
 
 [Syllabus](syllabus.md)
 
-[Blackboard Course](https://www.blackboard.odu.edu/ultra/courses/_394465_1/cl/outline)
-* [Media Gallery](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394465_1&tool_id=_5549_1&tool_type=TOOL&mode=cpview&mode=reset) (class meeting videos)
-* [Discussion Board](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394465_1&tool_id=_2588_1&tool_type=TOOL&mode=cpview&mode=reset)
-* [Assignment submission](https://www.blackboard.odu.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_10420859_1&course_id=_394465_1&mode=reset)
-* [Blackboard Calendar](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394465_1&tool_id=_152_1&tool_type=TOOL&mode=cpview&mode=reset)
+[Blackboard Course](https://www.blackboard.odu.edu/ultra/courses/_394465_1/cl/outline)  
+&nbsp; &nbsp; [Media Gallery](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394465_1&tool_id=_5549_1&tool_type=TOOL&mode=cpview&mode=reset) (class meeting videos) | [Discussion Board](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394465_1&tool_id=_2588_1&tool_type=TOOL&mode=cpview&mode=reset) | [Assignment submission](https://www.blackboard.odu.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_10420859_1&course_id=_394465_1&mode=reset) | [Blackboard Calendar](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394465_1&tool_id=_152_1&tool_type=TOOL&mode=cpview&mode=reset)
 
 [GitHub Classroom](https://classroom.github.com/classrooms/58780854-odu-cs-800-research-methods-spring-2022)
 
@@ -26,7 +23,7 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |---|---|---|---|---|
 |[1](agenda.md#week-1)|	Jan 11, 13<br/>ONLINE|	Tue: Course Intro<br/>Thu: What's Grad School All About? (slides 1-45)| [Personal Intro](https://www.blackboard.odu.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_394465_1&nav=discussion_board_entry&conf_id=_457421_1&forum_id=_495768_1)<br/>[HW1](HW1.md) | Personal Intro (Jan 11) |
 |[2](agenda.md#week-2)|	Jan 18, 20<br/>ONLINE|	Tue: What's Grad School All About? (slides 46-66), Academic Presence<br/>Thu: Research Tools | [HW2](HW2.md) | HW1 (Jan 18) |
-|[3](agenda.md#week-3)|	Jan 25, 27|	Research Careers, Reading Academic Papers<br/>Thu: Dr. Samy El-Tawab, JMU (ODU 2012)| HW3<br/>HW - presentation | HW2 (Jan 25) | 
+|[3](agenda.md#week-3)|	Jan 25, 27<br/>ONLINE|	Research Careers, Reading Academic Papers<br/>Thu: Dr. Samy El-Tawab, JMU (ODU 2012)| HW3<br/>HW - presentation | HW2 (Jan 25) | 
 |[4](agenda.md#week-4)|	Feb 1, 3| Academic Publishing and Reviewing<br/>Tue: Dr. Wie Yusuf, Career Pathways<br/>Thu: Abbie Basile, ODU Libraries | HW4 | HW3 (Feb 1) |
 |[5](agenda.md#week-5)|	Feb 8, 10| Academic Communication - writing, Writing Summaries<br/>Thu: Karen Vaughn, ODU Libraries | HW5 | HW4 (Feb 8) |
 |[6](agenda.md#week-6)|	Feb 15, 17|	Academic Communication - presenting<br/>Thu: Megan Boeshart, ODU Writing Center |  | |
