@@ -30,11 +30,12 @@ Due (before 11:59pm):
 
 Materials: 
 * [Week-01-GradSchool slides](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1) (slides 46-66)
-* [Week-02a-Presence slides](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing)
+* [Week-02a-Presence slides](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing) (slides 1-12)
 
 **Thu, Jan 20** - Research Tools
 
 Materials:
+* [Week-02a-Presence slides](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing) (slides 13-44)
 * [Week-02b-ResearchTools slides](https://docs.google.com/presentation/d/1huRXTyWqSY_3SH8BNt0blcKm0XEMj1Vx2QiWYQO1lV0/edit?usp=sharing)
 
 **Assignments**
@@ -44,10 +45,22 @@ Materials:
 ## Week 3
 [References and Additional Resources for Week 3](resources.md#week-3)
 
-Jan 25, 27
+**Tues,	Jan 25** - Research Careers
 
+Materials:
+* [Week03a-Careers slides](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/edit#slide=id.p1)
 
-*Materials/assignments to be added*
+**Thurs, Jan 27** - Reading Academic Papers
+
+Materials:
+* _To be added_
+
+Guest Speaker: Dr. Samy El-Tawab, Associate Professor, James Madison University (ODU 2012)
+
+**Assignments**
+* HW3
+* HW - presentation
+* Review next week's materials
 
 ## Week 4
 [References and Additional Resources for Week 4](resources.md#week-4)
