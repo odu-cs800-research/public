@@ -103,7 +103,51 @@ Slide References
   * PaperPile - https://paperpile.com/ 
 
 ## Week 3
-Jan 25, 27
+**Tues,	Jan 25** - Research Careers
+
+Slide References
+* [ODU Career Pathways Program](https://sites.wp.odu.edu/careerpathways/)
+ * [Career Pathways YouTube channel](https://www.youtube.com/channel/UCnzhxTxGkpglo77iZyCMBqA/)
+ * [GRAD 700](https://sites.wp.odu.edu/careerpathways/grad700/)
+* [Dr. Weigle's InfoVis Gallery](https://www.cs.odu.edu/~mweigle/Research/InfoVis-Gallery)
+* [Tweet thread on Perks of Academia](https://twitter.com/MichelleCardel/status/1216785202590015488), Michelle Cardel ([@MichelleCardel](https://twitter.com/MichelleCardel))
+* Jimmy Lin, [Working in industry is a one-way street out of academia](https://github.com/lintool/guide/blob/master/industry-one-way-street.md)
+* [Carnegie Classification](https://carnegieclassifications.iu.edu/index.php)
+* ODU is an R1!, https://www.odu.edu/news/2021/12/research_1_designati#.YecFnmBOnUI
+* [2020 Taulbee Survey](https://cra.org/wp-content/uploads/2021/05/2020-CRA-Taulbee-Survey.pdf)
+* [CRA Job Announcements](https://cra.org/ads/)
+* [ACM Career & Job Center](https://jobs.acm.org/jobs/), search for Faculty
+* [Tomorrow's Professor Postings](https://tomprof.stanford.edu/)
+  * [Final TP Posting](https://tomorrowsprofessor.sites.stanford.edu/posting/1887)
+* [*McKeachie's Teaching Tips*](https://www.google.com/books/edition/_/dWsWAAAAQBAJ?hl=en&kptab=overview&gbpv=0)
+  * [notes on the book](https://cspeirce.wordpress.com/2016/06/01/notes-on-mckeachies-teaching-tips/)
+* Robert Boice, [*Professors as Writers*](https://www.amazon.com/Professors-Writers-Self-Help-Productive-Writing/dp/091350713X)
+  * [notes on the book](http://www.raulpacheco.org/2017/09/professors-as-writers-robert-boice-my-reading-notes/)
+* Ben Shneiderman, [*The New ABCs of Research*](https://www.cs.umd.edu/hcil/newabcs/)
+
+**Thurs, Jan 27** - Reading Academic Papers
+
+Slide References
+* [My Research Methods Guidelines](https://docs.google.com/document/d/1ZIlCog36OoNKymgWZkJ5D8142JQ19WGjbaqW34ymd_8/edit)
+* Example of off-campus access to ACM Digital Library, https://dl-acm-org.proxy.lib.odu.edu/doi/abs/10.5555/1218112.1218509
+* Example of off-campus access to IEEE Xplore, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/6970187
+* Fatcat, https://fatcat.wiki/
+   * My papers: https://fatcat.wiki/release/search?q=michele+c.+weigle
+   * Example search for a particular paper, https://fatcat.wiki/release/search?q=Automatically+Selecting+Striking+Images+for+Social+Cards 
+   * Example search for a particular conference venue, https://fatcat.wiki/container/search?q=Joint+conference+on+digital+libraries  
+   * JCDL page, https://fatcat.wiki/container/kw2apmx5ynfyjf6jhs5gzrrx6e
+   * IEEE Transactions on Visualization and Computer Graphics page, https://fatcat.wiki/container/hjrujdrg7zaghbdsp5pdzq7cmm 
+* Internet Archive Scholar, https://scholar.archive.org/
+   * My papers: https://scholar.archive.org/search?q=michele+c.+weigle 
+   * Example search for a particular paper, https://scholar.archive.org/search?q=automatically+selecting+striking+images+for+social+cards 
+* S. Keshav, [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
+* [Reading Papers](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/03_reading_papers.pdf) (pdf), lecture slides from Dr. Brunelle's CS 891, Spring 2019
+* William Griswold, [How to Read an Engineering Research Paper](http://www.cs.ucsd.edu/users/wgg/CSE210/howtoread.html)
+* [Example of marking up a paper](https://drive.google.com/open?id=1UQeT9o-IvLhp5RAv1vAJ7DS-lXQdNW7E)
+* Jason Eisner, [How to Read a Technical Paper](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
+* Michael Mitzenmacher, [How to Read a Research Paper](http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
+* Tia Newhall, [Some Tips for Reading Research Papers](http://www.cs.swarthmore.edu/~newhall/cs97/s00/ReadingAdvice.html)
+
 
 ## Week 4
 Feb 1, 3
