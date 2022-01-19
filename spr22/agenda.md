@@ -48,25 +48,26 @@ Materials:
 **Tues,	Jan 25** - Research Careers
 
 Materials:
-* [Week03a-Careers slides](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/edit#slide=id.p1)
+* [Week-03a-Careers slides](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/edit#slide=id.p1)
 
 **Thurs, Jan 27** - Reading Academic Papers
 
+Due (before class):
+* Read Keshav, "How to Read a Paper", http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
+
 Materials:
-* _To be added_
+* [Week-03b-Reading slides](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/edit#slide=id.p1)
 
 Guest Speaker: Dr. Samy El-Tawab, Associate Professor, James Madison University (ODU 2012)
 
 **Assignments**
 * HW3
-* HW - presentation
 * Review next week's materials
 
 ## Week 4
 [References and Additional Resources for Week 4](resources.md#week-4)
 
 Feb 1, 3
-
 
 *Materials/assignments to be added*
 
