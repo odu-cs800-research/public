@@ -88,6 +88,7 @@ Slide References
    * https://github.com/oduwsdl/sumgram/issues
    * https://github.com/oduwsdl/sumgram/issues/26
 * LaTeX
+   * Example doc with images and tables, https://www.overleaf.com/read/wdpmbwqbrzpm
    * Free online introduction to LaTeX (HW1), https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1) 
    * Learn LaTeX in 30 minutes, https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes 
    * Learn LaTeX, https://www.learnlatex.org/en/ 
