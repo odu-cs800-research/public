@@ -36,7 +36,7 @@ Materials:
 
 Materials:
 * [Week-02a-Presence slides](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing) (slides 13-44)
-* [Week-02b-ResearchTools slides](https://docs.google.com/presentation/d/1huRXTyWqSY_3SH8BNt0blcKm0XEMj1Vx2QiWYQO1lV0/edit?usp=sharing)
+* [Week-02b-ResearchTools slides](https://docs.google.com/presentation/d/1huRXTyWqSY_3SH8BNt0blcKm0XEMj1Vx2QiWYQO1lV0/edit?usp=sharing) (slides 1-20)
 
 **Assignments**
 * [HW2](HW2.md) - Establishing an Academic Presence
@@ -48,6 +48,7 @@ Materials:
 **Tues,	Jan 25** - Research Careers
 
 Materials:
+* [Week-02b-ResearchTools slides](https://docs.google.com/presentation/d/1huRXTyWqSY_3SH8BNt0blcKm0XEMj1Vx2QiWYQO1lV0/edit?usp=sharing) (slides 21-37)
 * [Week-03a-Careers slides](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/edit#slide=id.p1)
 
 **Thurs, Jan 27** - Reading Academic Papers
