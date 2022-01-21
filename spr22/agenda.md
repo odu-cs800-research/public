@@ -47,6 +47,9 @@ Materials:
 
 **Tues,	Jan 25** - Research Careers
 
+Due (before class):
+* HW2
+
 Materials:
 * Research Tools slides ([Week-02b-ResearchTools slides](https://docs.google.com/presentation/d/1huRXTyWqSY_3SH8BNt0blcKm0XEMj1Vx2QiWYQO1lV0/edit?usp=sharing)) [21-37]
 * Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/edit#slide=id.p1))
