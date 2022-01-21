@@ -59,7 +59,7 @@ Due (before class):
 Materials:
 * Reading Academic Papers slides ([Week-03b-Reading](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/edit#slide=id.p1))
 
-Guest Speaker: Dr. Samy El-Tawab, Associate Professor, James Madison University (ODU 2012)
+Guest Speaker: [Dr. Samy El-Tawab](http://educ.jmu.edu/~eltawass/), Associate Professor, James Madison University (ODU 2012)
 
 **Assignments**
 * HW3
