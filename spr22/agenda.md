@@ -14,7 +14,7 @@ Due (before class):
 **Thurs, Jan 13** - What's Grad School All About?
 
 Materials:
-* [Week-01-GradSchool slides](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1) (slides 1-45)
+* What's Grad School All About? slides ([Week-01-GradSchool](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1)) [1-45] 
 
 **Assignments**
 * [HW1](HW1.md) - Course Setup
@@ -29,14 +29,14 @@ Due (before 11:59pm):
 * HW1
 
 Materials: 
-* [Week-01-GradSchool slides](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1) (slides 46-66)
-* [Week-02a-Presence slides](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing) (slides 1-12)
+* What's Grad School All About? slides ([Week-01-GradSchool](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1)) [46-66] 
+* Academic Presence slides ([Week-02a-Presence](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing)) [1-12]
 
 **Thu, Jan 20** - Research Tools
 
 Materials:
-* [Week-02a-Presence slides](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing) (slides 13-44)
-* [Week-02b-ResearchTools slides](https://docs.google.com/presentation/d/1huRXTyWqSY_3SH8BNt0blcKm0XEMj1Vx2QiWYQO1lV0/edit?usp=sharing) (slides 1-20)
+* Academic Presence slides ([Week-02a-Presence](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing)) [13-44]
+* Research Tools slides ([Week-02b-ResearchTools slides](https://docs.google.com/presentation/d/1huRXTyWqSY_3SH8BNt0blcKm0XEMj1Vx2QiWYQO1lV0/edit?usp=sharing)) [1-20]
 
 **Assignments**
 * [HW2](HW2.md) - Establishing an Academic Presence
@@ -48,8 +48,8 @@ Materials:
 **Tues,	Jan 25** - Research Careers
 
 Materials:
-* [Week-02b-ResearchTools slides](https://docs.google.com/presentation/d/1huRXTyWqSY_3SH8BNt0blcKm0XEMj1Vx2QiWYQO1lV0/edit?usp=sharing) (slides 21-37)
-* [Week-03a-Careers slides](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/edit#slide=id.p1)
+* Research Tools slides ([Week-02b-ResearchTools slides](https://docs.google.com/presentation/d/1huRXTyWqSY_3SH8BNt0blcKm0XEMj1Vx2QiWYQO1lV0/edit?usp=sharing)) [21-37]
+* Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/edit#slide=id.p1))
 
 **Thurs, Jan 27** - Reading Academic Papers
 
@@ -57,7 +57,7 @@ Due (before class):
 * Read Keshav, "How to Read a Paper", http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
 
 Materials:
-* [Week-03b-Reading slides](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/edit#slide=id.p1)
+* Reading Academic Papers slides ([Week-03b-Reading](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/edit#slide=id.p1))
 
 Guest Speaker: Dr. Samy El-Tawab, Associate Professor, James Madison University (ODU 2012)
 
