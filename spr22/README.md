@@ -24,7 +24,7 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[1](agenda.md#week-1)|	Jan 11, 13<br/>ONLINE|	Tue: Course Intro<br/>Thu: What's Grad School All About? (slides 1-45)| [Personal Intro](https://www.blackboard.odu.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_394465_1&nav=discussion_board_entry&conf_id=_457421_1&forum_id=_495768_1)<br/>[HW1](HW1.md) | Personal Intro (Jan 11) |
 |[2](agenda.md#week-2)|	Jan 18, 20<br/>ONLINE|	Tue: What's Grad School All About? (slides 46-66), Academic Presence (slides 1-12)<br/>Thu: Academic Presence (slides 13-44), Research Tools (slides 1-20) | [HW2](HW2.md) | HW1 (Jan 18) |
 |[3](agenda.md#week-3)|	Jan 25, 27<br/>ONLINE|	Tue: Research Tools (slides 21-37), Research Careers<br/>Thu: Dr. Samy El-Tawab, JMU (ODU 2012)<br/>Reading Academic Papers| HW3 | HW2 (Jan 25) | 
-|[4](agenda.md#week-4)|	Feb 1, 3| Academic Publishing and Reviewing<br/>Tue: Dr. Wie Yusuf, Career Pathways<br/>Thu: Abbie Basile, ODU Libraries | HW4<br/>HW - presentation | HW3 (Feb 1) |
+|[4](agenda.md#week-4)|	Feb 1, 3| Academic Publishing and Reviewing<br/>Tue: Dr. Wie Yusuf, Career Pathways<br/>Thu: Abbie Basile, ODU Libraries | HW4<br/>HW - presentation | HW3 (Feb 3) |
 |[5](agenda.md#week-5)|	Feb 8, 10| Academic Communication - writing, Writing Summaries<br/>Thu: Karen Vaughn, ODU Libraries | HW5 | HW4 (Feb 8) |
 |[6](agenda.md#week-6)|	Feb 15, 17|	Academic Communication - presenting<br/>Thu: Megan Boeshart, ODU Writing Center |  | |
 |[7](agenda.md#week-7)|	Feb 22, 24|	Visualization Basics<br/>Thu: Dr. Martin Klein, LANL (ODU 2011)|  | HW5 (Feb 22) | 
