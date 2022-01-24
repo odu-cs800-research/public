@@ -132,6 +132,7 @@ Slide References
 * [My Research Methods Guidelines](https://docs.google.com/document/d/1ZIlCog36OoNKymgWZkJ5D8142JQ19WGjbaqW34ymd_8/edit)
 * Example of off-campus access to ACM Digital Library, https://dl-acm-org.proxy.lib.odu.edu/doi/abs/10.5555/1218112.1218509
 * Example of off-campus access to IEEE Xplore, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/6970187
+* ODU Library Guide for CS, https://guides.lib.odu.edu/ComputerScience
 * Fatcat, https://fatcat.wiki/
    * My papers: https://fatcat.wiki/release/search?q=michele+c.+weigle
    * Example search for a particular paper, https://fatcat.wiki/release/search?q=Automatically+Selecting+Striking+Images+for+Social+Cards 
