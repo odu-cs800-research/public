@@ -1,11 +1,13 @@
 # References and Additional Resources
 
 ## Week 1
+
 **Tues, Jan 11** - Course Intro, What's Grad School All About? 
 
 **Thurs, Jan 13** - What's Grad School All About?
 
 Slide References
+
 * ODU CS PhD requirements, https://odu.edu/compsci/academics/graduate/phd
 * Vijay Chidambaram, [Answer to "What are the main differences between a Masters and a PhD in computer science?"](https://www.quora.com/What-are-the-main-differences-between-a-Masters-and-a-PhD-in-computer-science/answer/Vijay-Chidambaram), quora.com, 2012
 * Svilen Kanev, ["Why (Not) Do a PhD in Computer Science?"](http://blog.skanev.org/2013/03/why-not-do-phd-in-computer-science.html), 2013
@@ -25,9 +27,11 @@ Slide References
 * Niklas Elmqvist, [Preparing for the Big Day](https://niklaselmqvist.medium.com/preparing-for-the-big-day-2153f7306300)
 
 ## Week 2
+
 **Tues, Jan 18** - Academic Presence
 
 Slide References
+
 * Dr. Michael Nelson’s Nov 2019 WS-DL Luncheon presentation, [“The Spectrum of Scholarly Communication”](https://docs.google.com/presentation/d/1FQfDkPpsw_mVSVn_cwMiBCJbnrdRnyjsUbworMIdL-I/) and [updated version for CS 395-Spring 2020](https://docs.google.com/presentation/d/1IwxSSkiDute5iwphX5_xbLly3cm85Hgo08BX1s1SlzA/)
 * Shawn Jones, [Journey to a Career in Computer Science: Online Networking](https://docs.google.com/presentation/d/1Puz_7TaJAN1aC6TpCRKyoNyUS8SIvj4gpgOsVVp2OAg/), presentation for ODU's Office of Intercultural Relations (OIR), Sep 2021.
 * Tweet about establishing an academic webpage, https://twitter.com/merrierm/status/1205550389187100672
@@ -47,8 +51,8 @@ Slide References
 * @ODUCS Twitter following and followers, https://twitter.com/oducs/following, https://twitter.com/oducs/followers
 * Twitter accounts of ODU-CS faculty and research groups, https://twitter.com/i/lists/1479504235377086471/members
 * Example good tweet threads
-   * https://twitter.com/acnwala/status/1141384171396317184
-   * https://twitter.com/phonedude_mln/status/1134068797747421185
+  * https://twitter.com/acnwala/status/1141384171396317184
+  * https://twitter.com/phonedude_mln/status/1134068797747421185
 * Best time to post on social media, https://sproutsocial.com/insights/best-times-to-post-on-social-media
 * WS-DL kudos
   * https://twitter.com/hrbrmstr/status/1387218422640021509
@@ -59,6 +63,7 @@ Slide References
 **Thu, Jan 20** - Research Tools
 
 Slide References
+
 * [Google Colab](https://colab.research.google.com)
  * Overview of Colaboratory, https://colab.research.google.com/notebooks/basic_features_overview.ipynb
  * CS 432/532 Python Example, https://colab.research.google.com/github/odu-cs432-websci/public/blob/main/fall21/432_F21_NetworkX_example.ipynb
@@ -70,7 +75,7 @@ Slide References
   * CS 725/825 D3 Example, https://observablehq.com/@weiglemc/clustering-example-with-d3 
   * Dr. Weigle's Public Observable notebooks, https://observablehq.com/@weiglemc
 * [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu)
-   * lectures videos, https://www.youtube.com/c/MissingSemester
+  * lectures videos, https://www.youtube.com/c/MissingSemester
 * [ODU WS-DL GitHub Organization](https://github.com/oduwsdl)
   * https://github.com/oduwsdl/MementoEmbed
   * https://github.com/oduwsdl/sumgram
@@ -81,21 +86,21 @@ Slide References
   * git - the simple guide, https://rogerdudler.github.io/git-guide/ 
   * Git and VSCode integration, https://code.visualstudio.com/docs/editor/versioncontrol
 * [GitHub](https://www.github.com)
-   * Dr. Weigle's GitHub, https://github.com/weiglemc
-   * Collaborating with Pull Requests, https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models 
-   * How to Sync Forked Repositories Using Git or Github, https://levelup.gitconnected.com/how-to-sync-forked-repositories-using-git-or-github-2933e497fa16
+  * Dr. Weigle's GitHub, https://github.com/weiglemc
+  * Collaborating with Pull Requests, https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models 
+  * How to Sync Forked Repositories Using Git or Github, https://levelup.gitconnected.com/how-to-sync-forked-repositories-using-git-or-github-2933e497fa16
 * GitHub Issues Examples
-   * https://github.com/oduwsdl/sumgram/issues
-   * https://github.com/oduwsdl/sumgram/issues/26
+  * https://github.com/oduwsdl/sumgram/issues
+  * https://github.com/oduwsdl/sumgram/issues/26
 * LaTeX
-   * Example doc with images and tables, https://www.overleaf.com/read/wdpmbwqbrzpm
-   * Free online introduction to LaTeX (HW1), https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1) 
-   * Learn LaTeX in 30 minutes, https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes 
-   * Learn LaTeX, https://www.learnlatex.org/en/ 
+  * Example doc with images and tables, https://www.overleaf.com/read/wdpmbwqbrzpm
+  * Free online introduction to LaTeX (HW1), https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1) 
+  * Learn LaTeX in 30 minutes, https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes 
+  * Learn LaTeX, https://www.learnlatex.org/en/ 
 * BibTeX
-   * Format, http://www.bibtex.org/Format/ 
-   * Entry types, https://www.bibtex.com/e/entry-types/ 
-   * Example document at Overleaf using BibTeX, https://www.overleaf.com/project/5e4bfe2d474903000194980d 
+  * Format, http://www.bibtex.org/Format/ 
+  * Entry types, https://www.bibtex.com/e/entry-types/ 
+  * Example document at Overleaf using BibTeX, https://www.overleaf.com/project/5e4bfe2d474903000194980d 
 * Reference management tools, https://en.wikipedia.org/wiki/Comparison_of_reference_management_software
   * Zotero - https://www.zotero.org (BibTeX plugin: https://github.com/retorquere/zotero-better-bibtex)
   * BibDesk - https://bibdesk.sourceforge.io
@@ -104,12 +109,14 @@ Slide References
   * PaperPile - https://paperpile.com/ 
 
 ## Week 3
-**Tues,	Jan 25** - Research Careers
+
+**Tues, Jan 25** - Research Careers
 
 Slide References
+
 * [ODU Career Pathways Program](https://sites.wp.odu.edu/careerpathways/)
- * [Career Pathways YouTube channel](https://www.youtube.com/channel/UCnzhxTxGkpglo77iZyCMBqA/)
- * [GRAD 700](https://sites.wp.odu.edu/careerpathways/grad700/)
+  * [Career Pathways YouTube channel](https://www.youtube.com/channel/UCnzhxTxGkpglo77iZyCMBqA/)
+  * [GRAD 700](https://sites.wp.odu.edu/careerpathways/grad700/)
 * [Dr. Weigle's InfoVis Gallery](https://www.cs.odu.edu/~mweigle/Research/InfoVis-Gallery)
 * [Tweet thread on Perks of Academia](https://twitter.com/MichelleCardel/status/1216785202590015488), Michelle Cardel ([@MichelleCardel](https://twitter.com/MichelleCardel))
 * Jimmy Lin, [Working in industry is a one-way street out of academia](https://github.com/lintool/guide/blob/master/industry-one-way-street.md)
@@ -129,19 +136,20 @@ Slide References
 **Thurs, Jan 27** - Reading Academic Papers
 
 Slide References
+
 * [My Research Methods Guidelines](https://docs.google.com/document/d/1ZIlCog36OoNKymgWZkJ5D8142JQ19WGjbaqW34ymd_8/edit)
 * Example of off-campus access to ACM Digital Library, https://dl-acm-org.proxy.lib.odu.edu/doi/abs/10.5555/1218112.1218509
 * Example of off-campus access to IEEE Xplore, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/6970187
 * ODU Library Guide for CS, https://guides.lib.odu.edu/ComputerScience
 * Fatcat, https://fatcat.wiki/
-   * My papers: https://fatcat.wiki/release/search?q=michele+c.+weigle
-   * Example search for a particular paper, https://fatcat.wiki/release/search?q=Automatically+Selecting+Striking+Images+for+Social+Cards 
-   * Example search for a particular conference venue, https://fatcat.wiki/container/search?q=Joint+conference+on+digital+libraries  
-   * JCDL page, https://fatcat.wiki/container/kw2apmx5ynfyjf6jhs5gzrrx6e
-   * IEEE Transactions on Visualization and Computer Graphics page, https://fatcat.wiki/container/hjrujdrg7zaghbdsp5pdzq7cmm 
+  * My papers: https://fatcat.wiki/release/search?q=michele+c.+weigle
+  * Example search for a particular paper, https://fatcat.wiki/release/search?q=Automatically+Selecting+Striking+Images+for+Social+Cards 
+  * Example search for a particular conference venue, https://fatcat.wiki/container/search?q=Joint+conference+on+digital+libraries  
+  * JCDL page, https://fatcat.wiki/container/kw2apmx5ynfyjf6jhs5gzrrx6e
+  * IEEE Transactions on Visualization and Computer Graphics page, https://fatcat.wiki/container/hjrujdrg7zaghbdsp5pdzq7cmm 
 * Internet Archive Scholar, https://scholar.archive.org/
-   * My papers: https://scholar.archive.org/search?q=michele+c.+weigle 
-   * Example search for a particular paper, https://scholar.archive.org/search?q=automatically+selecting+striking+images+for+social+cards 
+  * My papers: https://scholar.archive.org/search?q=michele+c.+weigle 
+  * Example search for a particular paper, https://scholar.archive.org/search?q=automatically+selecting+striking+images+for+social+cards 
 * S. Keshav, [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 * [Reading Papers](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/03_reading_papers.pdf) (pdf), lecture slides from Dr. Brunelle's CS 891, Spring 2019
 * William Griswold, [How to Read an Engineering Research Paper](http://www.cs.ucsd.edu/users/wgg/CSE210/howtoread.html)
@@ -150,36 +158,94 @@ Slide References
 * Michael Mitzenmacher, [How to Read a Research Paper](http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
 * Tia Newhall, [Some Tips for Reading Research Papers](http://www.cs.swarthmore.edu/~newhall/cs97/s00/ReadingAdvice.html)
 
-
 ## Week 4
-Feb 1, 3
+
+**Tues, Feb 1** - Academic Publishing
+
+Slide References
+
+* Dr. Michael L. Nelson, "The Spectrum of Scholarly Communication” ([Nov 2019 WS-DL Luncheon presentation](https://docs.google.com/presentation/d/1FQfDkPpsw_mVSVn_cwMiBCJbnrdRnyjsUbworMIdL-I/) and [updated version for CS 395-Spring 2020](https://docs.google.com/presentation/d/1IwxSSkiDute5iwphX5_xbLly3cm85Hgo08BX1s1SlzA/))
+* “Citation Analysis and Other Metrics” (CS 891–Fall 2017, https://phonedude.github.io/cs891-f17/)
+* J.E. Hirsch, "An index to quantify an individual's scientific research output", https://arxiv.org/abs/physics/0508025
+* xckd: Dubious Study, https://xkcd.com/1847/
+* [Peer Review in 3 Minutes](https://www.youtube.com/watch?v=rOCQZ7QnoN0) (video)
+* Eugene Garfield, ["Journal impact factor: a brief review"](http://web.archive.org/web/20000623233044/http://www.cma.ca/cmaj/vol-161/issue-8/0979.htm) (archived)
+* [Clarivate Journal Citation Reports (JCR)](https://jcr.clarivate.com/JCRLandingPageAction.action)
+* Grudniewicz et al., [Predatory journals: no definition, no defence](https://www.nature.com/articles/d41586-019-03759-y), Nature, Dec 11, 2019.
+* [Conference Alert](https://conferencealert.com/), suspected predatory conferences
+* [JCDL 2019 Trip Report](https://ws-dl.blogspot.com/2019/06/2019-06-05-joint-conference-on-digital.html%20)
+* http://www.conferencelist.info/ - curation service of international computer science conferences
+* [CORE Conference Ranking](http://portal.core.edu.au/conf-ranks/) - provides assessments of major conferences in the computing disciplines (also contains journal rankings)
+* [Databases & Information Systems top publications at Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_databasesinformationsystems)
+* [Library & Information Science top publications at Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_libraryinformationscience)
+* [JCDL top articles, 2016-2021](https://scholar.google.com/citations?hl=en&vq=eng_libraryinformationscience&view_op=list_hcore&venue=1akwQ0Ck8NUJ.2021)
+* [JCDL at dblp](https://dblp.org/db/conf/jcdl/index.html)
+* [Academic Authorship](https://en.wikipedia.org/wiki/Academic_authorship), Wikipedia
+* xkcd: Types of Scientific Paper, https://xkcd.com/2456/
+
+**Thurs, Feb 3** - Academic Reviewing
+
+Slide References
+
+* Timothy Roscoe, [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
+* Alan Jay Smith, [Task of the Referee](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/CSD-89-511.pdf)
 
 ## Week 5
-Feb 8, 10
+
+**Tues, Feb 8** - Academic Communication - writing
+
+**Thurs, Feb 10** - Writing Summaries
 
 ## Week 6
-Feb 15, 17
+
+**Tues, Feb 15** - Academic Communication - presenting
+
+**Thurs, Feb 17** - Academic Communication - presenting
 
 ## Week 7
-Feb 22, 24
+
+**Tues, Feb 22** - Visualization Basics
+
+**Thurs, Feb 24** - Experimental Methods
 
 ## Week 8
-Mar 1, 3
+
+**Tues, Mar 1** - Grant Process
+
+**Thurs, Mar 3** - Grant Writing
 
 ## Week 9
-Mar 15, 17
+
+**Tues, Mar 15** - ODU Faculty Presentations
+
+**Thurs, Mar 17** - ODU Faculty Presentations
 
 ## Week 10
-Mar 22, 24
+
+**Tues, Mar 22** - ODU Faculty Presentations
+
+**Thurs, Mar 24** - ODU Faculty Presentations
 
 ## Week 11
-Mar 29, 31
+
+**Tues, Mar 29** - TBA
+
+**Thurs, Mar 31** - TBA
 
 ## Week 12
-Apr 5, 7
+
+**Tues, Apr 5** - Student Dissertation Presentations
+
+**Thurs, Apr 7** - Student Dissertation Presentations
 
 ## Week 13
-Apr 12, 14
+
+**Tues, Apr 14** - Student Dissertation Presentations
+
+**Thurs, Apr 16** - Student Dissertation Presentations
 
 ## Week 14
-Apr 19, 21
+
+**Tues, Apr 19** - Student Dissertation Presentations
+
+**Thurs, Apr 21** - Student Dissertation Presentations
