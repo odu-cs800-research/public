@@ -17,7 +17,7 @@ Due (before class):
 
 Materials:
 
-* What's Grad School All About? slides ([Week-01-GradSchool](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1)) [1-45]
+* What's Grad School All About? slides ([Week-01-GradSchool](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/preview?rm=minimal)) [1-45]
 
 **Assignments**
 
@@ -36,7 +36,7 @@ Due (before 11:59pm):
 
 Materials:
 
-* What's Grad School All About? slides ([Week-01-GradSchool](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/edit#slide=id.p1)) [46-66]
+* What's Grad School All About? slides ([Week-01-GradSchool](https://docs.google.com/presentation/d/1zQod31-t-DK8C1j-N2G5ErRlwBofrDSvD6aShOs28NE/preview?rm=minimal)) [46-66]
 * Academic Presence slides ([Week-02a-Presence](https://docs.google.com/presentation/d/1s9XfcjeoucAl563yx_1_iK6Sr7aLUrr4UtrDz2bXHQk/edit?usp=sharing)) [1-12]
 
 **Thu, Jan 20** - Research Tools
@@ -63,8 +63,8 @@ Due (before class):
 
 Materials:
 
-* Research Tools slides ([Week-02b-ResearchTools slides](https://docs.google.com/presentation/d/1huRXTyWqSY_3SH8BNt0blcKm0XEMj1Vx2QiWYQO1lV0/edit?usp=sharing)) [21-37]
-* Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/edit#slide=id.p1))
+* Research Tools slides ([Week-02b-ResearchTools slides](https://docs.google.com/presentation/d/1huRXTyWqSY_3SH8BNt0blcKm0XEMj1Vx2QiWYQO1lV0/preview?rm=minimal)) [21-37]
+* Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/preview?rm=minimal)) [1-19]
 
 **Thurs, Jan 27** - Reading Academic Papers
 
@@ -74,7 +74,8 @@ Due (before class):
 
 Materials:
 
-* Reading Academic Papers slides ([Week-03b-Reading](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/edit#slide=id.p1))
+* Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/preview?rm=minimal)) [19-31]
+* Reading Academic Papers slides ([Week-03b-Reading](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/preview?rm=minimal))
 
 Guest Speaker: [Dr. Samy El-Tawab](http://educ.jmu.edu/~eltawass/), Associate Professor, James Madison University (ODU 2012)
 
@@ -91,7 +92,7 @@ Guest Speaker: [Dr. Samy El-Tawab](http://educ.jmu.edu/~eltawass/), Associate Pr
 
 Materials:
 
-* Academic Publishing and Citations slides ([Week-04a-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/edit#slide=id.p1))
+* Academic Publishing and Citations slides ([Week-04a-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
 
 **Thurs, Feb 3** - Academic Reviewing
 
@@ -101,7 +102,7 @@ Due by 11:59pm:
 
 Materials:
 
-* Academic Reviewing slides ([Week-04b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/edit#slide=id.p1))
+* Academic Reviewing slides ([Week-04b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
 
 **Assignments**
 
