@@ -81,7 +81,7 @@ Guest Speaker: [Dr. Samy El-Tawab](http://educ.jmu.edu/~eltawass/), Associate Pr
 
 **Assignments**
 
-* HW3
+* [HW3](HW3.md)
 * Review next week's materials
 
 ## Week 4
