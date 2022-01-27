@@ -74,7 +74,6 @@ Due (before class):
 
 Materials:
 
-* Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/preview?rm=minimal)) [19-31]
 * Reading Academic Papers slides ([Week-03b-Reading](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/preview?rm=minimal))
 
 Guest Speaker: [Dr. Samy El-Tawab](http://educ.jmu.edu/~eltawass/), Associate Professor, James Madison University (ODU 2012)
@@ -88,10 +87,11 @@ Guest Speaker: [Dr. Samy El-Tawab](http://educ.jmu.edu/~eltawass/), Associate Pr
 
 [References and Additional Resources for Week 4](resources.md#week-4)
 
-**Tues, Feb 1** - Academic Publishing
+**Tues, Feb 1** - Research Careers, Academic Publishing
 
 Materials:
 
+* Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/preview?rm=minimal)) [19-31]
 * Academic Publishing and Citations slides ([Week-04a-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
 
 **Thurs, Feb 3** - Academic Reviewing
@@ -106,7 +106,6 @@ Materials:
 
 **Assignments**
 
-* HW4 - *to be added*
 * HW-presentation - *to be added*
 * Review next week's materials
 
