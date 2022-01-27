@@ -27,12 +27,12 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[4](agenda.md#week-4)| Feb 1, 3| Tue: Academic Publishing<br/>*Guest Speaker:* Dr. Wie Yusuf, Career Pathways<br/>Thu: Academic Reviewing<br/>*Guest Speaker:* Abbie Basile, ODU Libraries | HW4<br/>dissertation presentation | HW3 (Feb 3) |
 |[5](agenda.md#week-5)| Feb 8, 10|Tue: Academic Communication - writing<br/>Thu: Writing Summaries<br/>*Guest Speaker:* Karen Vaughn, ODU Libraries | HW5 | HW4 (Feb 8) |
 |[6](agenda.md#week-6)| Feb 15, 17| Tue: Academic Communication - presenting<br/>Thu: *Guest Speaker:* Megan Boeshart, ODU Writing Center |  | dissertation selection (Feb 17)|
-|[7](agenda.md#week-7)| Feb 22, 24| Tue: Visualization Basics<br/>Thu: Experimental Methods<br/>*Guest Speaker:* Dr. Martin Klein, LANL (ODU 2011)|  | HW5 (Feb 22) |
+|[7](agenda.md#week-7)| Feb 22, 24| Tue: Visualization Basics<br/>*Guest Speaker:* Bhanuka Mahanama (ODU PhD student)<br/>Thu: Experimental Methods<br/>*Guest Speaker:* Dr. Martin Klein, LANL (ODU 2011)|  | HW5 (Feb 22) |
 |[8](agenda.md#week-8)| Mar 1, 3| Tue: Grant Process<br/>*Guest Speaker:* Dr. Justin Brunelle, MITRE (ODU 2016)<br/>Thu: Grant Writing<br/>*Guest Speaker:* Dr. Ahmed AlSum, Google (ODU 2014)| HW6 | |
 || Mar 8, 11| **NO CLASS - Spring Break** |
 |[9](agenda.md#week-9)| Mar 15, 17<br/>ONLINE| ODU-CS Faculty Presentations<br/>Tue: Dr. Jiangwen Sun | | |
 |[10](agenda.md#week-10)| Mar 22, 24| ODU-CS Faculty Presentations | | draft presentation slides (Mar 22)<br/>HW6 (Mar 24) |
-|[11](agenda.md#week-11)| Mar 29, 31| Tue: Dr. Mohammad Almalag, CNU (ODU 2013)<br/>Thu: Dr. Alexander Nwala, Indiana Univ (ODU 2020)| | |
+|[11](agenda.md#week-11)| Mar 29, 31| Tue: Overflow Topics</br>*Guest Speaker:* Dr. Mohammad Almalag, CNU (ODU 2013)<br/>Thu: Overflow Topics</br>*Guest Speaker:* Dr. Alexander Nwala, Indiana Univ (ODU 2020)| | |
 |[12](agenda.md#week-12)| Apr 5, 7| Student Dissertation Presentations | | final presentation slides (Apr 5)|
 |[13](agenda.md#week-13)| Apr 12, 14| Student Dissertation Presentations | | |
 |[14](agenda.md#week-14)| Apr 19, 21| Student Dissertation Presentations | | |
