@@ -78,6 +78,16 @@ Materials:
 
 Guest Speaker: [Dr. Samy El-Tawab](http://educ.jmu.edu/~eltawass/), Associate Professor, James Madison University (ODU 2012)
 
+* First Prototype: https://www.youtube.com/watch?v=bCi4ClAqEqU
+* Second Prototype: https://www.youtube.com/watch?v=lKFB6VVzYUw&t=15s
+* Reporters visit test – Summer 2021 https://www.facebook.com/watch/?v=409491370424629
+* News: https://www.facebook.com/jmuav/photos/a.587133005175435/957154418173290/
+* Project website/twitter/Facebook:
+  * Twitter: https://twitter.com/JacartR
+  * Facebook: https://www.facebook.com/jmuav
+  * Website: https://av.cise.jmu.edu/
+ 
+
 **Assignments**
 
 * [HW3](HW3.md)
