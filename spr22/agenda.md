@@ -86,7 +86,6 @@ Guest Speaker: [Dr. Samy El-Tawab](http://educ.jmu.edu/~eltawass/), Associate Pr
   * Twitter: https://twitter.com/JacartR
   * Facebook: https://www.facebook.com/jmuav
   * Website: https://av.cise.jmu.edu/
- 
 
 **Assignments**
 
@@ -104,6 +103,8 @@ Materials:
 * Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/preview?rm=minimal)) [19-31]
 * Academic Publishing and Citations slides ([Week-04a-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
 
+Guest Speaker: [Dr. Wie Yusuf](https://fs.wp.odu.edu/jyusuf/), [Career Pathways](https://sites.wp.odu.edu/careerpathways/)
+
 **Thurs, Feb 3** - Academic Reviewing
 
 Due by 11:59pm:
@@ -114,9 +115,11 @@ Materials:
 
 * Academic Reviewing slides ([Week-04b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
 
+Guest Speaker: Abbie Basile, ODU Libraries
+
 **Assignments**
 
-* HW-presentation - *to be added*
+* [dissertation presentation](dissertation.md)
 * Review next week's materials
 
 ## Week 5
