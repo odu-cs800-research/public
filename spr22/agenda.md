@@ -127,18 +127,19 @@ Guest Speaker: Abbie Basile, ODU Libraries
 
 [References and Additional Resources for Week 5](resources.md#week-5)
 
-**Tues, Feb 8** - Academic Reviewing, Academic Communication - writing
+**Tues, Feb 8** - Academic Reviewing, Writing Summaries/Lit Reviews, Research Ethics
 
 Materials:
 
 * Academic Reviewing slides ([Week-04b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
-* Academic Communication - writing slides - *to be added*
+* Writing Summaries slides - *to be added*
+* Research Ethics slides - *to be added*
 
-**Thurs, Feb 10** - Writing Summaries and Literature Reviews
+**Thurs, Feb 10** - Academic Communication - writing
 
 Materials:
 
-* Writing Summaries slides - *to be added*
+* Academic Communication - writing slides ([Week-05b-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1)
 
 Guest Speaker: Karen Vaughn, ODU Libraries
 
@@ -151,9 +152,19 @@ Guest Speaker: Karen Vaughn, ODU Libraries
 
 [References and Additional Resources for Week 6](resources.md#week-6)
 
-Feb 15, 17
+**Tues, Feb 15** - Academic Communication - presenting
 
-*Materials/assignments to be added*
+Materials:
+
+* Academic Communication - presenting slides ([Week-06-Presenting](https://docs.google.com/presentation/d/1bCCL7bw5j41e3se3oLH-qakLT0P0GKFhec5T8EZ9FXs/preview?rm=minimal))
+
+**Thurs, Feb 17** - Academic Communication - presenting
+
+Guest Speaker: Megan Boeshart, ODU Writing Center
+
+**Assignments**
+
+* Review next week's materials
 
 ## Week 7
 

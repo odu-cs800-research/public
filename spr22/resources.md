@@ -189,22 +189,51 @@ Slide References
 
 ## Week 5
 
-**Tues, Feb 8** - Academic Reviewing, Academic Communication - writing
+**Tues, Feb 8** - Academic Reviewing, Writing Summaries/Literature Reviews
 
 Slide References - Academic Reviewing
 
 * Timothy Roscoe, [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
 * Alan Jay Smith, [Task of the Referee](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/CSD-89-511.pdf)
 
-Slide References - Academic Communication - writing
+Slide References - Writing Summaries/Literature Reviews
 
 *to be added*
 
-**Thurs, Feb 10** - Writing Summaries and Literature Reviews
+**Thurs, Feb 10** - Academic Communication - writing
+
+Slide References
+
+* Jimmy Lin, [Writing Pet Peeves](https://github.com/lintool/guide/blob/master/writing-pet-peeves.md%20)
+* Tamara Munzner, [Paper and Talk Writing](http://www.cs.ubc.ca/~tmm/policy.txt) (scroll down to this section)
+* Jimmy Lin, [Writing a Research Paper with Me](https://github.com/lintool/guide/blob/master/writing-a-research-paper-with-me.md)
+* Pete Shirley, [How to write a paper when you suck at writing](http://psgraphics.blogspot.com/2020/11/how-to-write-paper-when-you-suck-at.html)
+* Sampath Jayarathna, [Quick and Easy Way to Write a Research Paper Publication](https://ws-dl.blogspot.com/2022/01/2022-01-24-quick-and-easy-way-to-write.html)
+* ["Best Written Paper"](http://mybiasedcoin.blogspot.com/2012/03/best-written-paper.html), article by Michael Mitzenmacher
+* Tamara Munzner, [Writing Pet Peeves: Correctness, References, and Style](https://www.cs.ubc.ca/~tmm/writing.html)
+* Jia-Bin Huang, [How to write clear and concise sentences?](https://twitter.com/jbhuang0604/status/1437931004451250176), Twitter thread, Sep 2021
+
+More Writing References
+
+* [Writing Concise Sentences](https://www.csc2.ncsu.edu/faculty/healey/csc600/writing-sentence.pdf) - presentation with effective strategies for improving your writing
+* ["Clarity in Technical Reporting"](http://www.cs.odu.edu/~mln/NASA-64-sp7010.pdf), NASA report - lots of really good information and guidelines
+* [ODU's Writing Center](https://www.odu.edu/al/centers/writing-center)
 
 ## Week 6
 
 **Tues, Feb 15** - Academic Communication - presenting
+
+Slide References
+
+* Ashwin Ram, [Presenting a Paper](https://www.cc.gatech.edu/faculty/ashwin/wisdom/how-to-present-a-paper.html%20) - focuses on presenting others' work
+* Jiri Srba, [How to Read and Present a Scientific Paper](https://people.cs.aau.dk/~hans/Dat5/slides.pdf)
+* Nicholas Nethercote, [Giving a Good Research Talk](https://web.archive.org/web/20200220135851/http://njn.valgrind.org/good-talk.html)
+* Justin Brunelle, [Presenting Academic Research slides](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/06_presenting101.pdf), from CS 891, Fall 2019
+* Tamara Munzner, <http://www.cs.ubc.ca/~tmm/policy.txt>
+* Jones et al., [How to Give a Good Research Talk](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/giving-a-talk.pdf)
+* Arnaud Legout, [How To Give a Talk](http://cel.archives-ouvertes.fr/cel-00529505/en/) - comprehensive set of guidelines, includes advice on slide design
+* Jean-luc Doumont, [Creating Effective Slides](https://www.youtube.com/watch?v=meBXuTIPJQk), talk April 4, 2013 at Clark Center, Stanford Univeristy, video (1:03:03)
+* English Communication for Scientists, [Giving Oral Presentations](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/giving-oral-presentations-14239332) (includes delivering as a non-native speaker)
 
 **Thurs, Feb 17** - Academic Communication - presenting
 
