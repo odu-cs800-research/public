@@ -96,16 +96,16 @@ Guest Speaker: [Dr. Samy El-Tawab](http://educ.jmu.edu/~eltawass/), Associate Pr
 
 [References and Additional Resources for Week 4](resources.md#week-4)
 
-**Tues, Feb 1** - Research Careers, Academic Publishing
+**Tues, Feb 1** - Research Careers
 
 Materials:
 
-* Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/preview?rm=minimal)) [19-31]
+* Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/preview?rm=minimal)) [19-25]
 * Academic Publishing and Citations slides ([Week-04a-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
 
 Guest Speaker: [Dr. Wie Yusuf](https://fs.wp.odu.edu/jyusuf/), [Career Pathways](https://sites.wp.odu.edu/careerpathways/) - [slides](02-01-yusuf-CareerPathways.pdf)
 
-**Thurs, Feb 3** - Academic Reviewing
+**Thurs, Feb 3** - Research Careers, Academic Publishing
 
 Due by 11:59pm:
 
@@ -113,7 +113,8 @@ Due by 11:59pm:
 
 Materials:
 
-* Academic Reviewing slides ([Week-04b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
+* Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/preview?rm=minimal)) [25-31]
+* Academic Publishing and Citations slides ([Week-04a-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
 
 Guest Speaker: Abbie Basile, ODU Libraries
 
@@ -126,9 +127,25 @@ Guest Speaker: Abbie Basile, ODU Libraries
 
 [References and Additional Resources for Week 5](resources.md#week-5)
 
-Feb 8, 10
+**Tues, Feb 8** - Academic Reviewing, Academic Communication - writing
 
-*Materials/assignments to be added*
+Materials:
+
+* Academic Reviewing slides ([Week-04b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
+* Academic Communication - writing slides - *to be added*
+
+**Thurs, Feb 10** - Writing Summaries and Literature Reviews
+
+Materials:
+
+* Writing Summaries slides - *to be added*
+
+Guest Speaker: Karen Vaughn, ODU Libraries
+
+**Assignments**
+
+* HW4
+* Review next week's materials
 
 ## Week 6
 

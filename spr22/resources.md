@@ -160,7 +160,11 @@ Slide References
 
 ## Week 4
 
-**Tues, Feb 1** - Academic Publishing
+**Tues, Feb 1** - Research Careers
+
+See [Week 3](#week-3) slide references
+
+**Thurs, Feb 3** - Academic Publishing
 
 Slide References
 
@@ -183,18 +187,20 @@ Slide References
 * [Academic Authorship](https://en.wikipedia.org/wiki/Academic_authorship), Wikipedia
 * xkcd: Types of Scientific Paper, https://xkcd.com/2456/
 
-**Thurs, Feb 3** - Academic Reviewing
+## Week 5
 
-Slide References
+**Tues, Feb 8** - Academic Reviewing, Academic Communication - writing
+
+Slide References - Academic Reviewing
 
 * Timothy Roscoe, [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
 * Alan Jay Smith, [Task of the Referee](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/CSD-89-511.pdf)
 
-## Week 5
+Slide References - Academic Communication - writing
 
-**Tues, Feb 8** - Academic Communication - writing
+*to be added*
 
-**Thurs, Feb 10** - Writing Summaries
+**Thurs, Feb 10** - Writing Summaries and Literature Reviews
 
 ## Week 6
 
