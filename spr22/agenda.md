@@ -103,7 +103,7 @@ Materials:
 * Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/preview?rm=minimal)) [19-31]
 * Academic Publishing and Citations slides ([Week-04a-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
 
-Guest Speaker: [Dr. Wie Yusuf](https://fs.wp.odu.edu/jyusuf/), [Career Pathways](https://sites.wp.odu.edu/careerpathways/)
+Guest Speaker: [Dr. Wie Yusuf](https://fs.wp.odu.edu/jyusuf/), [Career Pathways](https://sites.wp.odu.edu/careerpathways/) - [slides](02-01-yusuf-CareerPathways.pdf)
 
 **Thurs, Feb 3** - Academic Reviewing
 
