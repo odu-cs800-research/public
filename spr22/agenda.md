@@ -101,7 +101,6 @@ Guest Speaker: [Dr. Samy El-Tawab](http://educ.jmu.edu/~eltawass/), Associate Pr
 Materials:
 
 * Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/preview?rm=minimal)) [19-25]
-* Academic Publishing and Citations slides ([Week-04a-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
 
 Guest Speaker: [Dr. Wie Yusuf](https://fs.wp.odu.edu/jyusuf/), [Career Pathways](https://sites.wp.odu.edu/careerpathways/) - [slides](02-01-yusuf-CareerPathways.pdf)
 
@@ -139,7 +138,7 @@ Materials:
 
 Materials:
 
-* Academic Communication - writing slides ([Week-05b-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1)
+* Academic Communication - writing slides ([Week-05b-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1))
 
 Guest Speaker: Karen Vaughn, ODU Libraries
 
