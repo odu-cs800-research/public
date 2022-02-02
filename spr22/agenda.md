@@ -128,6 +128,10 @@ Guest Speaker: Abbie Basile, ODU Libraries
 
 **Tues, Feb 8** - Academic Reviewing, Writing Summaries/Lit Reviews, Research Ethics
 
+Due *before class*:
+
+* Read ["Scientists Make Mistakes. I Made a Big One. A researcher learns the right thing to do when the wrong thing happens"](https://elemental.medium.com/when-science-needs-self-correcting-a130eacb4235) - *this is a medium.com post, let me know if you need a PDF instead*
+
 Materials:
 
 * Academic Reviewing slides ([Week-04b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
