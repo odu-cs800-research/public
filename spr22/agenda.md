@@ -128,7 +128,7 @@ Guest Speaker: Abbie Basile, ODU Libraries ([slides](02-03-Basile-LibraryHelp_CS
 
 [References and Additional Resources for Week 5](resources.md#week-5)
 
-**Tues, Feb 8** - Writing Summaries/Lit Reviews, Research Ethics
+**Tues, Feb 8** - Writing About Others' Work, Research Ethics
 
 Due *before class*:
 
@@ -136,7 +136,7 @@ Due *before class*:
 
 Materials:
 
-* Writing Summaries slides - *to be added*
+* Writing About Others' Work slides ([Week-05a-OthersWork](https://docs.google.com/presentation/d/1MV82PFRop5p6lucnCphr8-FpD175D3vqwj6aNOa0HtI/preview?rm=minimal))
 * Research Ethics slides - *to be added*
 
 **Thurs, Feb 10** - Academic Publishing, Academic Reviewing
