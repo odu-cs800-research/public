@@ -2,7 +2,7 @@
 
 ## Week 1
 
-**Tues, Jan 11** - Course Intro, What's Grad School All About? 
+**Tues, Jan 11** - Course Intro, What's Grad School All About?
 
 **Thurs, Jan 13** - What's Grad School All About?
 
@@ -164,9 +164,43 @@ Slide References
 
 See [Week 3](#week-3) slide references
 
-**Thurs, Feb 3** - Academic Publishing
+**Thurs, Feb 3** - Research Careers
 
-Slide References
+See [Week 3](#week-3) slide references
+
+## Week 5
+
+**Tues, Feb 8** - Writing About Others' Work, Research Ethics
+
+Slide References - Writing About Others' Work
+
+* [My Research Methods Guidelines](https://docs.google.com/document/d/1ZIlCog36OoNKymgWZkJ5D8142JQ19WGjbaqW34ymd_8/edit)
+* [Summary Guidelines](https://web.archive.org/web/20210420192123/https://www.cs.odu.edu/~mweigle/CS891-F15/Summaries), archived version
+* [Summary of a Scientific Article](https://web.archive.org/web/20130626191907/http://classweb.gmu.edu:80/biologyresources/writingguide/Summary.htm), George Mason Biology Dept, (archived)
+* [WS-DL Paper Summary Examples](https://ws-dl.blogspot.com/search/label/paper%20summary)
+* Niklas Elmqvist, ["Beyond an Audience of One"](https://niklaselmqvist.medium.com/beyond-an-audience-of-one-7b2c19cbc653)
+  * [Twitter thread with links to examples from UMd Vis Group](https://twitter.com/NElmqvist/status/1205339242383204352)
+* [Writing a Literature Review](https://owl.purdue.edu/owl/research_and_citation/conducting_research/writing_a_literature_review.html)
+* [Synthesizing Sources](https://owl.purdue.edu/owl/research_and_citation/conducting_research/research_overview/synthesizing_sources.html)
+* Lotzi Bölöni, ["Some thoughts about writing a survey paper"](http://www.cs.ucf.edu/~lboloni/Teaching/EEL6788_2008/slides/SurveyTutorial.pdf)
+* Barton P. Miller, [Answer to the question "How to write survey or review papers and what sections should be mentioned?"](https://www.researchgate.net/post/How_to_write_survey_or_review_papers_and_What_sections_should_be_mentioned_in_such_papers/51cdbf60d039b1fa352329d3/citation/download)
+* [Summary of Eye Movement and Pupil Measures: A Review](https://ws-dl.blogspot.com/2022/01/2022-01-21-summary-of-eye-movement-and.html) - summary of a review paper (summary written by the review paper author)
+  * Mahanama et al., [Eye Movement and Pupil Measures: A Review](https://doi.org/10.3389/fcomp.2021.733531), *Frontiers in Computer Science*, 2022.
+* [How to Write a Related Work Section](https://beehive.cs.princeton.edu/wiki/writing/how-to-write-a-related-work-section/)
+* Michael Mitzenmacher, ["Best Written Paper"](http://mybiasedcoin.blogspot.com/2012/03/best-written-paper.html)
+* Tamara Munzner, [Writing Pet Peeves: Correctness, References, and Style](https://www.cs.ubc.ca/~tmm/writing.html)
+* [Handy Guide for Using the Oxford Comma](http://mentalfloss.com/article/61309/handy-guide-using-oxford-comma)
+* [A Scary Easy Way to Help You Find Passing Voice](https://www.grammarly.com/blog/a-scary-easy-way-to-help-you-find-passive-voice/)
+* Jia-Bin Huang, [How to write clear and concise sentences?](https://twitter.com/jbhuang0604/status/1437931004451250176), Twitter thread, Sep 2021
+* Jimmy Lin, [Writing Pet Peeves](https://github.com/lintool/guide/blob/master/writing-pet-peeves.md)
+
+Slide References - Research Ethics
+
+*to be added*
+
+**Thurs, Feb 10** - Academic Publishing, Academic Reviewing
+
+Slide References - Academic Publishing
 
 * Dr. Michael L. Nelson, "The Spectrum of Scholarly Communication” ([Nov 2019 WS-DL Luncheon presentation](https://docs.google.com/presentation/d/1FQfDkPpsw_mVSVn_cwMiBCJbnrdRnyjsUbworMIdL-I/) and [updated version for CS 395-Spring 2020](https://docs.google.com/presentation/d/1IwxSSkiDute5iwphX5_xbLly3cm85Hgo08BX1s1SlzA/))
 * “Citation Analysis and Other Metrics” (CS 891–Fall 2017, https://phonedude.github.io/cs891-f17/)
@@ -187,41 +221,31 @@ Slide References
 * [Academic Authorship](https://en.wikipedia.org/wiki/Academic_authorship), Wikipedia
 * xkcd: Types of Scientific Paper, https://xkcd.com/2456/
 
-## Week 5
-
-**Tues, Feb 8** - Academic Reviewing, Writing Summaries/Literature Reviews
-
 Slide References - Academic Reviewing
 
 * Timothy Roscoe, [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
 * Alan Jay Smith, [Task of the Referee](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/CSD-89-511.pdf)
 
-Slide References - Writing Summaries/Literature Reviews
+## Week 6
 
-*to be added*
-
-**Thurs, Feb 10** - Academic Communication - writing
+**Tues, Feb 15** - Academic Communication - writing
 
 Slide References
 
-* Jimmy Lin, [Writing Pet Peeves](https://github.com/lintool/guide/blob/master/writing-pet-peeves.md%20)
+* Jimmy Lin, [Writing Pet Peeves](https://github.com/lintool/guide/blob/master/writing-pet-peeves.md)
 * Tamara Munzner, [Paper and Talk Writing](http://www.cs.ubc.ca/~tmm/policy.txt) (scroll down to this section)
 * Jimmy Lin, [Writing a Research Paper with Me](https://github.com/lintool/guide/blob/master/writing-a-research-paper-with-me.md)
 * Pete Shirley, [How to write a paper when you suck at writing](http://psgraphics.blogspot.com/2020/11/how-to-write-paper-when-you-suck-at.html)
 * Sampath Jayarathna, [Quick and Easy Way to Write a Research Paper Publication](https://ws-dl.blogspot.com/2022/01/2022-01-24-quick-and-easy-way-to-write.html)
-* ["Best Written Paper"](http://mybiasedcoin.blogspot.com/2012/03/best-written-paper.html), article by Michael Mitzenmacher
-* Tamara Munzner, [Writing Pet Peeves: Correctness, References, and Style](https://www.cs.ubc.ca/~tmm/writing.html)
-* Jia-Bin Huang, [How to write clear and concise sentences?](https://twitter.com/jbhuang0604/status/1437931004451250176), Twitter thread, Sep 2021
-
+* Michael Mitzenmacher, ["Best Written Paper"](http://mybiasedcoin.blogspot.com/2012/03/best-written-paper.html)
+* 
 More Writing References
 
 * [Writing Concise Sentences](https://www.csc2.ncsu.edu/faculty/healey/csc600/writing-sentence.pdf) - presentation with effective strategies for improving your writing
 * ["Clarity in Technical Reporting"](http://www.cs.odu.edu/~mln/NASA-64-sp7010.pdf), NASA report - lots of really good information and guidelines
 * [ODU's Writing Center](https://www.odu.edu/al/centers/writing-center)
 
-## Week 6
-
-**Tues, Feb 15** - Academic Communication - presenting
+**Thurs, Feb 17** - Academic Communication - presenting
 
 Slide References
 
@@ -234,8 +258,6 @@ Slide References
 * Arnaud Legout, [How To Give a Talk](http://cel.archives-ouvertes.fr/cel-00529505/en/) - comprehensive set of guidelines, includes advice on slide design
 * Jean-luc Doumont, [Creating Effective Slides](https://www.youtube.com/watch?v=meBXuTIPJQk), talk April 4, 2013 at Clark Center, Stanford Univeristy, video (1:03:03)
 * English Communication for Scientists, [Giving Oral Presentations](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/giving-oral-presentations-14239332) (includes delivering as a non-native speaker)
-
-**Thurs, Feb 17** - Academic Communication - presenting
 
 ## Week 7
 
