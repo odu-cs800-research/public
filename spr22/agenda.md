@@ -104,7 +104,7 @@ Materials:
 
 Guest Speaker: [Dr. Wie Yusuf](https://fs.wp.odu.edu/jyusuf/), [Career Pathways](https://sites.wp.odu.edu/careerpathways/) - [slides](02-01-yusuf-CareerPathways.pdf)
 
-**Thurs, Feb 3** - Research Careers, Academic Publishing
+**Thurs, Feb 3** - Research Careers
 
 Due by 11:59pm:
 
@@ -113,9 +113,11 @@ Due by 11:59pm:
 Materials:
 
 * Research Careers slides ([Week-03a-Careers](https://docs.google.com/presentation/d/1jIwTQJmgV4ZyzPRKmaEwshKCGBk8-VPKzRF5-D0rUKY/preview?rm=minimal)) [25-31]
-* Academic Publishing and Citations slides ([Week-04a-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
 
-Guest Speaker: Abbie Basile, ODU Libraries
+Guest Speaker: Abbie Basile, ODU Libraries ([slides](02-03-Basile-LibraryHelp_CS800%20Spr2022.pdf))
+
+* [Using Inter Library Loan (ILL)](Using%20ILL.pdf)
+* [Exporting EndNote to BibTeX](Exporting%20EndNote%20to%20BibTeX.pdf)
 
 **Assignments**
 
@@ -126,7 +128,7 @@ Guest Speaker: Abbie Basile, ODU Libraries
 
 [References and Additional Resources for Week 5](resources.md#week-5)
 
-**Tues, Feb 8** - Academic Reviewing, Writing Summaries/Lit Reviews, Research Ethics
+**Tues, Feb 8** - Writing Summaries/Lit Reviews, Research Ethics
 
 Due *before class*:
 
@@ -134,15 +136,15 @@ Due *before class*:
 
 Materials:
 
-* Academic Reviewing slides ([Week-04b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
 * Writing Summaries slides - *to be added*
 * Research Ethics slides - *to be added*
 
-**Thurs, Feb 10** - Academic Communication - writing
+**Thurs, Feb 10** - Academic Publishing, Academic Reviewing
 
 Materials:
 
-* Academic Communication - writing slides ([Week-05b-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1))
+* Academic Publishing and Citations slides ([Week-05c-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
+* Academic Reviewing slides ([Week-05d-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
 
 Guest Speaker: Karen Vaughn, ODU Libraries
 
@@ -155,13 +157,21 @@ Guest Speaker: Karen Vaughn, ODU Libraries
 
 [References and Additional Resources for Week 6](resources.md#week-6)
 
-**Tues, Feb 15** - Academic Communication - presenting
+**Tues, Feb 15** - Academic Communication - writing
 
 Materials:
 
-* Academic Communication - presenting slides ([Week-06-Presenting](https://docs.google.com/presentation/d/1bCCL7bw5j41e3se3oLH-qakLT0P0GKFhec5T8EZ9FXs/preview?rm=minimal))
+* Academic Communication - writing slides ([Week-06a-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1))
 
 **Thurs, Feb 17** - Academic Communication - presenting
+
+Due *before class*:
+
+* dissertation selection
+
+Materials:
+
+* Academic Communication - presenting slides ([Week-06b-Presenting](https://docs.google.com/presentation/d/1bCCL7bw5j41e3se3oLH-qakLT0P0GKFhec5T8EZ9FXs/preview?rm=minimal))
 
 Guest Speaker: Megan Boeshart, ODU Writing Center
 
