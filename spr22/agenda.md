@@ -137,7 +137,7 @@ Due *before class*:
 Materials:
 
 * Writing About Others' Work slides ([Week-05a-OthersWork](https://docs.google.com/presentation/d/1MV82PFRop5p6lucnCphr8-FpD175D3vqwj6aNOa0HtI/preview?rm=minimal))
-* Research Ethics slides - *to be added*
+* Research Ethics ([Week-05b-Ethics](https://docs.google.com/presentation/d/1O7vIbyZmqL8wXaJgISMLjyjD3Q2_i1YnvAmidc5tLjM/preview?rm=minimal))
 
 **Thurs, Feb 10** - Academic Publishing, Academic Reviewing
 

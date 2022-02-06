@@ -196,7 +196,21 @@ Slide References - Writing About Others' Work
 
 Slide References - Research Ethics
 
-*to be added*
+* [Ethics in research](https://people.wou.edu/~girodm/research/ethics.html)
+* [Research Using Humans](https://www.odu.edu/impact/compliance/humans) at ODU
+* [Does Your Research Involve Human Subjects?](https://www.washington.edu/research/hsd/do-i-need-irb-review/does-your-research-involve-human-subjects/), Univ. of Washington
+* [Ethics of Technology](https://en.wikipedia.org/wiki/Ethics_of_technology), Wikipedia
+* [Artificial Intelligence: Can We Trust Machines to Make Fair Decisions?](https://www.ucdavis.edu/curiosity/news/ais-race-and-gender-problem)
+* [Great promise but potential for peril](https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/)
+* [Artificial intelligence poses serious risks in the criminal justice system](https://www.jhunewsletter.com/article/2020/09/artificial-intelligence-poses-serious-risks-in-the-criminal-justice-system)
+* Meredith Broussard, *Artificial Intelligence: How Computers Misunderstand the World*, <https://mitpress.mit.edu/books/artificial-unintelligence>
+* Cathy O'Neil, *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, <https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/>
+* Safiya Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, <https://nyupress.org/9781479837243/algorithms-of-oppression/>
+* Julia Strand, ["Scientists Make Mistakes. I Made a Big One. A researcher learns the right thing to do when the wrong thing happens"](https://elemental.medium.com/when-science-needs-self-correcting-a130eacb4235)
+* [How do you know a paper is legit?](https://www.callingbullshit.org/tools/tools_legit.html)
+* Academic Integrity at ODU-CS, <https://weiglemc.github.io/academic-integrity/>
+* Tamara Munzner, [“Cheating: The List Of Things I Never Want To Hear Again”](https://www.cs.ubc.ca/~tmm/courses/cheat.html)
+* Justin Brunelle, [Plagiarism Lecture Slides](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/04_plagiarism.pdf), CS 891, Spring 2019
 
 **Thurs, Feb 10** - Academic Publishing, Academic Reviewing
 
