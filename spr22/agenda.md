@@ -89,7 +89,7 @@ Guest Speaker: [Dr. Samy El-Tawab](http://educ.jmu.edu/~eltawass/), Associate Pr
 
 **Assignments**
 
-* [HW3](HW3.md)
+* [HW3](HW3.md) - Reading Papers Using Keshav's First Pass
 * Review next week's materials
 
 ## Week 4
@@ -150,7 +150,7 @@ Guest Speaker: Karen Vaughn, ODU Libraries
 
 **Assignments**
 
-* HW4
+* [HW4](HW4) - Literature Review
 * Review next week's materials
 
 ## Week 6
