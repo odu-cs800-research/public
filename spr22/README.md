@@ -30,7 +30,7 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[7](agenda.md#week-7)| Feb 22, 24| **Tue:** Visualization Basics<br/>*Guest Speaker:* Bhanuka Mahanama (ODU PhD student)<br/>**Thu:** Experimental Methods<br/>*Guest Speaker:* Dr. Martin Klein, LANL (ODU 2011)|  | HW4 (Feb 22) |
 |[8](agenda.md#week-8)| Mar 1, 3| **Tue:** Grant Process<br/>*Guest Speaker:* Dr. Justin Brunelle, MITRE (ODU 2016)<br/>**Thu:** Grant Writing<br/>*Guest Speaker:* Dr. Ahmed AlSum, Google (ODU 2014)| HW5 | |
 || Mar 8, 11| **NO CLASS - Spring Break** |
-|[9](agenda.md#week-9)| Mar 15, 17<br/>ONLINE| ODU-CS Faculty Presentations<br/>**Tue:** Dr. Javon Sun | | <br/>HW5 (Mar 17) |
+|[9](agenda.md#week-9)| Mar 15, 17<br/>ONLINE| ODU-CS Faculty Presentations<br/>**Tue:** Dr. Jaingwen (Javon) Sun | | <br/>HW5 (Mar 17) |
 |[10](agenda.md#week-10)| Mar 22, 24| ODU-CS Faculty Presentations | | draft presentation slides (Mar 22)|
 |[11](agenda.md#week-11)| Mar 29, 31| **Tue:** Overflow Topics</br>*Guest Speaker:* Dr. Mohammad Almalag, CNU (ODU 2013)<br/>**Thu:** Overflow Topics</br>*Guest Speaker:* Dr. Alexander Nwala, Indiana Univ (ODU 2020)| | |
 |[12](agenda.md#week-12)| Apr 5, 7| Student Dissertation Presentations | | final presentation slides (Apr 5)|
