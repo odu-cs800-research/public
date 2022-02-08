@@ -172,9 +172,11 @@ See [Week 3](#week-3) slide references
 
 **Tues, Feb 8** - Writing About Others' Work, Research Ethics
 
+[Wired - 5 Levels Video Series](https://www.wired.com/video/series/5-levels)
+
 Slide References - Writing About Others' Work
 
-* [My Research Methods Guidelines](https://docs.google.com/document/d/1ZIlCog36OoNKymgWZkJ5D8142JQ19WGjbaqW34ymd_8/edit)
+* [My Research Methods Guidelines](https://docs.google.com/document/d/1ZIlCog36OoNKymgWZkJ5D8142JQ19WGjbaqW34ymd_8/edit?usp=sharing)
 * [Summary Guidelines](https://web.archive.org/web/20210420192123/https://www.cs.odu.edu/~mweigle/CS891-F15/Summaries), archived version
 * [Summary of a Scientific Article](https://web.archive.org/web/20130626191907/http://classweb.gmu.edu:80/biologyresources/writingguide/Summary.htm), George Mason Biology Dept, (archived)
 * [WS-DL Paper Summary Examples](https://ws-dl.blogspot.com/search/label/paper%20summary)

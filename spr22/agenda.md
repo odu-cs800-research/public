@@ -137,20 +137,21 @@ Due *before class*:
 Materials:
 
 * Writing About Others' Work slides ([Week-05a-OthersWork](https://docs.google.com/presentation/d/1MV82PFRop5p6lucnCphr8-FpD175D3vqwj6aNOa0HtI/preview?rm=minimal))
-* Research Ethics ([Week-05b-Ethics](https://docs.google.com/presentation/d/1O7vIbyZmqL8wXaJgISMLjyjD3Q2_i1YnvAmidc5tLjM/preview?rm=minimal))
+* Research Ethics slides ([Week-05b-Ethics](https://docs.google.com/presentation/d/1O7vIbyZmqL8wXaJgISMLjyjD3Q2_i1YnvAmidc5tLjM/preview?rm=minimal)) [1-9]
 
 **Thurs, Feb 10** - Academic Publishing, Academic Reviewing
 
 Materials:
 
+* Research Ethics slides ([Week-05b-Ethics](https://docs.google.com/presentation/d/1O7vIbyZmqL8wXaJgISMLjyjD3Q2_i1YnvAmidc5tLjM/preview?rm=minimal)) [10-]
 * Academic Publishing and Citations slides ([Week-05c-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
 * Academic Reviewing slides ([Week-05d-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
 
-Guest Speaker: Karen Vaughn, ODU Libraries
+Guest Speaker: Karen Vaughan, ODU Libraries ([slides](02-10-ODUDigitalCommons-ComputerScienceClass-2022-02-10.pdf))
 
 **Assignments**
 
-* [HW4](HW4) - Literature Review
+* [HW4](HW4.md) - Literature Review
 * Review next week's materials
 
 ## Week 6
