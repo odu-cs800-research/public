@@ -252,7 +252,7 @@ Slide References
 * Pete Shirley, [How to write a paper when you suck at writing](http://psgraphics.blogspot.com/2020/11/how-to-write-paper-when-you-suck-at.html)
 * Sampath Jayarathna, [Quick and Easy Way to Write a Research Paper Publication](https://ws-dl.blogspot.com/2022/01/2022-01-24-quick-and-easy-way-to-write.html)
 * Michael Mitzenmacher, ["Best Written Paper"](http://mybiasedcoin.blogspot.com/2012/03/best-written-paper.html)
-* 
+
 More Writing References
 
 * [Writing Concise Sentences](https://www.csc2.ncsu.edu/faculty/healey/csc600/writing-sentence.pdf) - presentation with effective strategies for improving your writing
