@@ -247,6 +247,7 @@ Slide References - Academic Publishing
 * [Clarivate Journal Citation Reports (JCR)](https://jcr.clarivate.com/JCRLandingPageAction.action)
 * Grudniewicz et al., [Predatory journals: no definition, no defence](https://www.nature.com/articles/d41586-019-03759-y), Nature, Dec 11, 2019.
 * [Conference Alert](https://conferencealert.com/), suspected predatory conferences
+* [ODU Libraries' Guide on Predatory Journals](https://guides.lib.odu.edu/c.php?g=745599&p=5339596)
 * [JCDL 2019 Trip Report](https://ws-dl.blogspot.com/2019/06/2019-06-05-joint-conference-on-digital.html%20)
 * http://www.conferencelist.info/ - curation service of international computer science conferences
 * [CORE Conference Ranking](http://portal.core.edu.au/conf-ranks/) - provides assessments of major conferences in the computing disciplines (also contains journal rankings)
@@ -256,6 +257,7 @@ Slide References - Academic Publishing
 * [JCDL at dblp](https://dblp.org/db/conf/jcdl/index.html)
 * [Academic Authorship](https://en.wikipedia.org/wiki/Academic_authorship), Wikipedia
 * xkcd: Types of Scientific Paper, https://xkcd.com/2456/
+* [ODU Libraries' Guide on Research Impact & Metrics](https://guides.lib.odu.edu/impact)
 
 Slide References - Academic Communication - writing
 
