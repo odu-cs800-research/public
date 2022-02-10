@@ -143,7 +143,7 @@ Materials:
 
 Materials:
 
-* Research Ethics slides ([Week-05b-Ethics](https://docs.google.com/presentation/d/1O7vIbyZmqL8wXaJgISMLjyjD3Q2_i1YnvAmidc5tLjM/preview?rm=minimal)) [10-]
+* Research Ethics slides ([Week-05b-Ethics](https://docs.google.com/presentation/d/1O7vIbyZmqL8wXaJgISMLjyjD3Q2_i1YnvAmidc5tLjM/preview?rm=minimal)) [10-22]
 
 Guest Speaker: Karen Vaughan, ODU Libraries ([slides](02-10-ODUDigitalCommons-ComputerScienceClass-2022-02-10.pdf))
 
