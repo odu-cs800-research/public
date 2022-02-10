@@ -139,12 +139,11 @@ Materials:
 * Writing About Others' Work slides ([Week-05a-OthersWork](https://docs.google.com/presentation/d/1MV82PFRop5p6lucnCphr8-FpD175D3vqwj6aNOa0HtI/preview?rm=minimal))
 * Research Ethics slides ([Week-05b-Ethics](https://docs.google.com/presentation/d/1O7vIbyZmqL8wXaJgISMLjyjD3Q2_i1YnvAmidc5tLjM/preview?rm=minimal)) [1-9]
 
-**Thurs, Feb 10** - Research Ethics, Academic Publishing
+**Thurs, Feb 10** - Research Ethics
 
 Materials:
 
 * Research Ethics slides ([Week-05b-Ethics](https://docs.google.com/presentation/d/1O7vIbyZmqL8wXaJgISMLjyjD3Q2_i1YnvAmidc5tLjM/preview?rm=minimal)) [10-]
-* Academic Publishing and Citations slides ([Week-05c-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
 
 Guest Speaker: Karen Vaughan, ODU Libraries ([slides](02-10-ODUDigitalCommons-ComputerScienceClass-2022-02-10.pdf))
 
@@ -163,7 +162,7 @@ Materials:
 
 * Academic Communication - presenting slides ([Week-06b-Presenting](https://docs.google.com/presentation/d/1bCCL7bw5j41e3se3oLH-qakLT0P0GKFhec5T8EZ9FXs/preview?rm=minimal))
 
-**Thurs, Feb 17** - Academic Communication - writing
+**Thurs, Feb 17** - Academic Publishing, Academic Communication - writing
 
 Due *before class*:
 
@@ -171,6 +170,7 @@ Due *before class*:
 
 Materials:
 
+* Academic Publishing and Citations slides ([Week-05c-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
 * Academic Communication - writing slides ([Week-06a-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1))
 
 Guest Speaker: Megan Boeshart, ODU Writing Center

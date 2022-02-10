@@ -214,7 +214,27 @@ Slide References - Research Ethics
 * Tamara Munzner, [“Cheating: The List Of Things I Never Want To Hear Again”](https://www.cs.ubc.ca/~tmm/courses/cheat.html)
 * Justin Brunelle, [Plagiarism Lecture Slides](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/04_plagiarism.pdf), CS 891, Spring 2019
 
-**Thurs, Feb 10** - Research Ethics, Academic Publishing
+**Thurs, Feb 10** - Research Ethics
+
+See [Week 5, Tues](#week-5) slide references
+
+## Week 6
+
+**Tues, Feb 15** - Academic Communication - presenting
+
+Slide References
+
+* Ashwin Ram, [Presenting a Paper](https://www.cc.gatech.edu/faculty/ashwin/wisdom/how-to-present-a-paper.html%20) - focuses on presenting others' work
+* Jiri Srba, [How to Read and Present a Scientific Paper](https://people.cs.aau.dk/~hans/Dat5/slides.pdf)
+* Nicholas Nethercote, [Giving a Good Research Talk](https://web.archive.org/web/20200220135851/http://njn.valgrind.org/good-talk.html)
+* Justin Brunelle, [Presenting Academic Research slides](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/06_presenting101.pdf), from CS 891, Fall 2019
+* Tamara Munzner, <http://www.cs.ubc.ca/~tmm/policy.txt>
+* Jones et al., [How to Give a Good Research Talk](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/giving-a-talk.pdf)
+* Arnaud Legout, [How To Give a Talk](http://cel.archives-ouvertes.fr/cel-00529505/en/) - comprehensive set of guidelines, includes advice on slide design
+* Jean-luc Doumont, [Creating Effective Slides](https://www.youtube.com/watch?v=meBXuTIPJQk), talk April 4, 2013 at Clark Center, Stanford Univeristy, video (1:03:03)
+* English Communication for Scientists, [Giving Oral Presentations](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/giving-oral-presentations-14239332) (includes delivering as a non-native speaker)
+
+**Thurs, Feb 17** - Academic Communication - writing
 
 Slide References - Academic Publishing
 
@@ -237,25 +257,7 @@ Slide References - Academic Publishing
 * [Academic Authorship](https://en.wikipedia.org/wiki/Academic_authorship), Wikipedia
 * xkcd: Types of Scientific Paper, https://xkcd.com/2456/
 
-## Week 6
-
-**Tues, Feb 15** - Academic Communication - presenting
-
-Slide References
-
-* Ashwin Ram, [Presenting a Paper](https://www.cc.gatech.edu/faculty/ashwin/wisdom/how-to-present-a-paper.html%20) - focuses on presenting others' work
-* Jiri Srba, [How to Read and Present a Scientific Paper](https://people.cs.aau.dk/~hans/Dat5/slides.pdf)
-* Nicholas Nethercote, [Giving a Good Research Talk](https://web.archive.org/web/20200220135851/http://njn.valgrind.org/good-talk.html)
-* Justin Brunelle, [Presenting Academic Research slides](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/06_presenting101.pdf), from CS 891, Fall 2019
-* Tamara Munzner, <http://www.cs.ubc.ca/~tmm/policy.txt>
-* Jones et al., [How to Give a Good Research Talk](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/giving-a-talk.pdf)
-* Arnaud Legout, [How To Give a Talk](http://cel.archives-ouvertes.fr/cel-00529505/en/) - comprehensive set of guidelines, includes advice on slide design
-* Jean-luc Doumont, [Creating Effective Slides](https://www.youtube.com/watch?v=meBXuTIPJQk), talk April 4, 2013 at Clark Center, Stanford Univeristy, video (1:03:03)
-* English Communication for Scientists, [Giving Oral Presentations](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/giving-oral-presentations-14239332) (includes delivering as a non-native speaker)
-
-**Thurs, Feb 17** - Academic Communication - writing
-
-Slide References
+Slide References - Academic Communication - writing
 
 * Jimmy Lin, [Writing Pet Peeves](https://github.com/lintool/guide/blob/master/writing-pet-peeves.md)
 * Tamara Munzner, [Paper and Talk Writing](http://www.cs.ubc.ca/~tmm/policy.txt) (scroll down to this section)
