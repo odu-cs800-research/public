@@ -172,7 +172,8 @@ See [Week 3](#week-3) slide references
 
 **Tues, Feb 8** - Writing About Others' Work, Research Ethics
 
-[Wired - 5 Levels Video Series](https://www.wired.com/video/series/5-levels)
+[Wired - 5 Levels Video Series](https://www.wired.com/video/series/5-levels)  
+Tweet thread regarding potentially biased systematic review paper, <https://twitter.com/GidMK/status/1489744749942620162>
 
 Slide References - Writing About Others' Work
 
