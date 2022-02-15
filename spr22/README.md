@@ -32,7 +32,7 @@ Click on the week number to get that week's agenda, reading assignment, and link
 || Mar 8, 11| **NO CLASS - Spring Break** |
 |[9](agenda.md#week-9)| Mar 15, 17<br/>ONLINE| ODU-CS Faculty Presentations<br/>**Tue:** Dr. Jiangwen (Javon) Sun <br/>**Thu:** Dr. Jian Wu| | HW5 (Mar 17) |
 |[10](agenda.md#week-10)| Mar 22, 24| ODU-CS Faculty Presentations<br/>**Tue:** Dr. Michael Nelson <br/>**Thu:** Dr. Faryaneh Poursardar | | draft presentation slides (Mar 22)|
-|[11](agenda.md#week-11)| Mar 29, 31| **Tue:** Overflow Topics</br>*Guest Speaker:* Dr. Mohammad Almalag, CNU (ODU 2013)<br/>**Thu:** 2 Guest Speakers</br>*Guest Speaker:* Dr. Alexander Nwala, Indiana Univ (ODU 2020)<br/>*Guest Speaker:* Dr. Shahram Mohrehkesh, Intuit (ODU 2015)| | |
+|[11](agenda.md#week-11)| Mar 29, 31| **Tue:** Overflow Topics</br>*Guest Speaker:* Dr. Mohammad Almalag, CNU (ODU 2013)<br/>**Thu (ONLINE):** 2 Guest Speakers</br>*Guest Speaker:* Dr. Alexander Nwala, Indiana Univ (ODU 2020)<br/>*Guest Speaker:* Dr. Shahram Mohrehkesh, Intuit (ODU 2015)| | |
 |[12](agenda.md#week-12)| Apr 5, 7| Student Dissertation Presentations | | final presentation slides (Apr 5)|
 |[13](agenda.md#week-13)| Apr 12, 14| Student Dissertation Presentations | | |
 |[14](agenda.md#week-14)| Apr 19, 21| Student Dissertation Presentations | | |
