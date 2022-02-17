@@ -35,6 +35,7 @@ Xiangrui
 * Qiao Zhang, "Joint Linear and Nonlinear Computation with Data Encryption for Efficient Privacy-Preserving Deep Learning", PhD thesis, **Old Dominion University**, Dec 2021, https://digitalcommons.odu.edu/ece_etds/230/, 184 pgs
 
 Zeyang
+*  Wessam Elhefnawy, "Highly Accurate Fragment Library for Protein Fold Recognition", PhD thesis, **Old Dominion University**, 2019, https://digitalcommons.odu.edu/computerscience_etds/88/, 125 pgs
 
 Tarannum
 * Alexander C. Nwala, "Bootstrapping Web Archive Collections From Micro-Collections in Social Media," PhD Dissertation, **Old Dominion University**, August 2020, https://digitalcommons.odu.edu/computerscience_etds/124/, 287 pgs
