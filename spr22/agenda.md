@@ -186,7 +186,7 @@ Guest Speaker: Megan Boeshart, ODU Writing Center
 
 Due by 11:59pm:
 
-* HW5
+* HW4
 
 Materials:
 
@@ -210,7 +210,7 @@ Guest Speaker: Dr. Martin Klein, Los Alamos National Laboratory (ODU 2011)
 
 [References and Additional Resources for Week 8](resources.md#week-8)
 
-**Tues, Mar 1** - Visualization Basics, Experimental Methods
+**Tues, Mar 1** - Visualization Basics
 
 Due before class:
 
@@ -224,6 +224,11 @@ Due before class:
 
 Guest Speaker: Dr. Justin Brunelle, MITRE (ODU 2016)
 
+**Assignments**
+
+* HW5 - *to be added*
+* Review next week's materials
+ 
 *Materials/assignments to be added*
 
 **Thurs, Mar 3** - Grant Process and Grant Writing
@@ -238,9 +243,15 @@ Guest Speaker: Dr. Ahmed AlSum, Google (ODU 2014)
 
 **Tues, Mar 15** - ODU Faculty Presentations
 
+Guest Speaker: Dr. Jiangwen (Javon) Sun
+
 **Thurs, Mar 17** - ODU Faculty Presentations
 
-*Materials/assignments to be added*
+Due by 11:59pm:
+
+* HW5
+
+Guest Speaker: Dr. Jian Wu
 
 ## Week 10
 
@@ -248,19 +259,29 @@ Guest Speaker: Dr. Ahmed AlSum, Google (ODU 2014)
 
 **Tues, Mar 22** - ODU Faculty Presentations
 
+Due by 11:59pm:
+
+* draft presentation slides
+
+Guest Speaker: Dr. Michael L. Nelson
+
 **Thurs, Mar 24** - ODU Faculty Presentations
 
-*Materials/assignments to be added*
+Guest Speaker: Dr. Faryaneh Poursardar
 
 ## Week 11
 
 [References and Additional Resources for Week 11](resources.md#week-11)
 
-**Tues, Mar 29** - TBA
+**Tues, Mar 29** - Experimental Methods
 
-**Thurs, Mar 31** - TBA
+Guest Speaker: Dr. Mohammad Almalag, CNU (ODU 2013)
 
-*Materials/assignments to be added*
+**Thurs, Mar 31** - Two Guest Speakers
+
+Guest Speaker: Dr. Alexander Nwala, Indiana Univ (ODU 2020)
+
+Guest Speaker: Dr. Shahram Mohrehkesh, Intuit (ODU 2015)
 
 ## Week 12
 
@@ -268,7 +289,7 @@ Guest Speaker: Dr. Ahmed AlSum, Google (ODU 2014)
 
 Due before class:
 
-* HW-presentation
+* Final Presentation Slides
 
 **Tues, Apr 5** - Student Dissertation Presentations
 
