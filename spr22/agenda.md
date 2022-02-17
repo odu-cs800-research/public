@@ -170,7 +170,7 @@ Due *before class*:
 
 Materials:
 
-* Academic Publishing and Citations slides ([Week-06b-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
+* Academic Publishing and Citations slides ([Week-06b-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal)) [1-31]
 
 Guest Speaker: Megan Boeshart, [ODU Writing Center](https://www.odu.edu/al/centers/writing-center)
 
@@ -190,6 +190,7 @@ Due by 11:59pm:
 
 Materials:
 
+* Academic Publishing and Citations slides ([Week-06b-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal)) [32-]
 * Academic Communication - writing slides ([Week-07a-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1))
 
 Guest Speaker: Bhanuka Mahanama, ODU PhD student
