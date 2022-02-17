@@ -172,7 +172,7 @@ Materials:
 
 * Academic Publishing and Citations slides ([Week-06b-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
 
-Guest Speaker: Megan Boeshart, ODU Writing Center
+Guest Speaker: Megan Boeshart, [ODU Writing Center](https://www.odu.edu/al/centers/writing-center)
 
 **Assignments**
 
