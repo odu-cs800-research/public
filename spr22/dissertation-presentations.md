@@ -12,6 +12,7 @@ Nathan
 * Xu, Jing. "Automatic Linear and Curvilinear Mesh Generation Driven by Validity Fidelity and Topological Guarantees", PhD Thesis, **Old Dominion University**, 2020, https://digitalcommons.odu.edu/computerscience_etds/127, 97 pgs
 
 Skanda
+* Günes Acar, "Online Tracking and Web Privacy", PhD Thesis, **KU Lueven** (The Netherlands), 2017, https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS1662331&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&lang=en_US, 242 pgs
 
 Emily
 * Justin F. Brunelle, "Scripts in a Frame: A Framework for Archiving Deferred Representations", PhD Thesis, **Old Dominion University**, 2016, https://digitalcommons.odu.edu/computerscience_etds/10/, 288 pgs
