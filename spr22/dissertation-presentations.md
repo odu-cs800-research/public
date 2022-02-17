@@ -35,4 +35,5 @@ Xiangrui
 
 Zeyang
 
-Tarannum - Alexander C. Nwala, "Bootstrapping Web Archive Collections From Micro-Collections in Social Media," PhD Dissertation, **Old Dominion University**, August 2020, https://digitalcommons.odu.edu/computerscience_etds/124/, 287 pgs
+Tarannum
+* Alexander C. Nwala, "Bootstrapping Web Archive Collections From Micro-Collections in Social Media," PhD Dissertation, **Old Dominion University**, August 2020, https://digitalcommons.odu.edu/computerscience_etds/124/, 287 pgs
