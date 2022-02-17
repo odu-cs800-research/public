@@ -162,7 +162,7 @@ Materials:
 
 * Academic Communication - presenting slides ([Week-06a-Presenting](https://docs.google.com/presentation/d/1bCCL7bw5j41e3se3oLH-qakLT0P0GKFhec5T8EZ9FXs/preview?rm=minimal))
 
-**Thurs, Feb 17** - Academic Publishing, Academic Communication - writing
+**Thurs, Feb 17** - Academic Publishing
 
 Due *before class*:
 
@@ -171,7 +171,6 @@ Due *before class*:
 Materials:
 
 * Academic Publishing and Citations slides ([Week-06b-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
-* Academic Communication - writing slides ([Week-06c-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1))
 
 Guest Speaker: Megan Boeshart, ODU Writing Center
 
@@ -183,17 +182,55 @@ Guest Speaker: Megan Boeshart, ODU Writing Center
 
 [References and Additional Resources for Week 7](resources.md#week-7)
 
-Feb 22, 24
+**Tues, Feb 22** - Academic Communication - writing
 
-*Materials/assignments to be added*
+Due by 11:59pm:
+
+* HW5
+
+Materials:
+
+* Academic Communication - writing slides ([Week-07a-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1))
+
+Guest Speaker: Bhanuka Mahanama, ODU PhD student
+
+**Thurs, Feb 24** - Academic Reviewing
+
+Materials:
+
+* Academic Reviewing slides ([Week-07b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
+
+Guest Speaker: Dr. Martin Klein, Los Alamos National Laboratory (ODU 2011)
+
+**Assignments**
+
+* Review next week's materials
 
 ## Week 8
 
 [References and Additional Resources for Week 8](resources.md#week-8)
 
-Mar 1, 3
+**Tues, Mar 1** - Visualization Basics, Experimental Methods
+
+Due before class:
+
+* Watch my Intro to InfoVis lectures from CS 432/532 in the Media Gallery ([slides](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/preview?rm=minimal))
+  * CS 432/532 - Mod 03, p1 - InfoVis Principles (12:15)
+  * CS 432/532 - Mod 03, p2 - Visualization Idioms (12:39)
+  * CS 432/532 - Mod 03, p3 - Charts with R (26:12)
+    * [InfoVis in R - Google Colab notebook](https://github.com/odu-cs432-websci/public/blob/main/Mod_03_InfoVis_R.ipynb) - click the "Open in Colab" button
+  * CS 432/532 - Mod 04, p4 - Charts with Python (19:12)
+    * [InfoVis in Python - Google Colab notebook](https://github.com/odu-cs432-websci/public/blob/main/Mod_03_InfoVis_Python.ipynb) - click the "Open in Colab" button
+
+Guest Speaker: Dr. Justin Brunelle, MITRE (ODU 2016)
 
 *Materials/assignments to be added*
+
+**Thurs, Mar 3** - Grant Process and Grant Writing
+
+*Materials/assignments to be added*
+
+Guest Speaker: Dr. Ahmed AlSum, Google (ODU 2014)
 
 ## Week 9
 

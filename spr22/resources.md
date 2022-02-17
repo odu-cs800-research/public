@@ -260,6 +260,10 @@ Slide References - Academic Publishing
 * xkcd: Types of Scientific Paper, https://xkcd.com/2456/
 * [ODU Libraries' Guide on Research Impact & Metrics](https://guides.lib.odu.edu/impact)
 
+## Week 7
+
+**Tues, Feb 22** - Academic Communication - writing, Academic Reviewing
+
 Slide References - Academic Communication - writing
 
 * Jimmy Lin, [Writing Pet Peeves](https://github.com/lintool/guide/blob/master/writing-pet-peeves.md)
@@ -275,16 +279,12 @@ More Writing References
 * ["Clarity in Technical Reporting"](http://www.cs.odu.edu/~mln/NASA-64-sp7010.pdf), NASA report - lots of really good information and guidelines
 * [ODU's Writing Center](https://www.odu.edu/al/centers/writing-center)
 
-## Week 7
-
-**Tues, Feb 22** - Academic Reviewing, Visualization Basics
-
 Slide References - Academic Reviewing
 
 * Timothy Roscoe, [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
 * Alan Jay Smith, [Task of the Referee](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/CSD-89-511.pdf)
 
-**Thurs, Feb 24** - Experimental Methods
+**Thurs, Feb 24** - Visualization Basics, Experimental Methods
 
 ## Week 8
 
