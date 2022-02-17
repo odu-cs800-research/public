@@ -26,13 +26,13 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[3](agenda.md#week-3)| Jan 25, 27<br/>ONLINE| **Tue:** Research Tools, Research Careers<br/>**Thu:** Reading Academic Papers<br/>*Guest Speaker:* Dr. Samy El-Tawab, JMU (ODU 2012)| [HW3](HW3.md) | HW2 (Jan 25) |
 |[4](agenda.md#week-4)| Feb 1, 3| **Tue:** Research Careers<br/>*Guest Speaker:* Dr. Wie Yusuf, Career Pathways<br/>**Thu:** Research Careers <br/>*Guest Speaker:* Abbie Basile, ODU Libraries | [dissertation presentation](dissertation.md) | HW3 (Feb 3) |
 |[5](agenda.md#week-5)| Feb 8, 10|**Tue:** Writing About Others' Work, Research Ethics<br/>**Thu:** Research Ethics<br/>*Guest Speaker:* Karen Vaughan, ODU Libraries | [HW4](HW4.md) |  |
-|[6](agenda.md#week-6)| Feb 15, 17| **Tue:** Academic Communication - presenting<br/>**Thu:** Academic Publishing, Academic Communication - writing<br/>*Guest Speaker:* Megan Boeshart, ODU Writing Center |  | dissertation selection (Feb 17)|
-|[7](agenda.md#week-7)| Feb 22, 24| **Tue:** Academic Reviewing, Visualization Basics<br/>*Guest Speaker:* Bhanuka Mahanama (ODU PhD student)<br/>**Thu:** Experimental Methods<br/>*Guest Speaker:* Dr. Martin Klein, LANL (ODU 2011)|  | HW4 (Feb 22) |
-|[8](agenda.md#week-8)| Mar 1, 3| **Tue:** Grant Process<br/>*Guest Speaker:* Dr. Justin Brunelle, MITRE (ODU 2016)<br/>**Thu:** Grant Writing<br/>*Guest Speaker:* Dr. Ahmed AlSum, Google (ODU 2014)| HW5 | |
+|[6](agenda.md#week-6)| Feb 15, 17| **Tue:** Academic Communication - presenting<br/>**Thu:** Academic Publishing<br/>*Guest Speaker:* Megan Boeshart, ODU Writing Center |  | dissertation selection (Feb 17)|
+|[7](agenda.md#week-7)| Feb 22, 24| **Tue:** Academic Communication - writing<br/>*Guest Speaker:* Bhanuka Mahanama (ODU PhD student)<br/>**Thu:** Academic Reviewing<br/>*Guest Speaker:* Dr. Martin Klein, LANL (ODU 2011)|  | HW4 (Feb 22) |
+|[8](agenda.md#week-8)| Mar 1, 3| **Tue:** Visualization Basics<br/>*Guest Speaker:* Dr. Justin Brunelle, MITRE (ODU 2016)<br/>**Thu:** Grant Process and Grant Writing<br/>*Guest Speaker:* Dr. Ahmed AlSum, Google (ODU 2014)| HW5 | |
 || Mar 8, 11| **NO CLASS - Spring Break** |
 |[9](agenda.md#week-9)| Mar 15, 17<br/>ONLINE| ODU-CS Faculty Presentations<br/>**Tue:** Dr. Jiangwen (Javon) Sun <br/>**Thu:** Dr. Jian Wu| | HW5 (Mar 17) |
 |[10](agenda.md#week-10)| Mar 22, 24| ODU-CS Faculty Presentations<br/>**Tue:** Dr. Michael Nelson <br/>**Thu:** Dr. Faryaneh Poursardar | | draft presentation slides (Mar 22)|
-|[11](agenda.md#week-11)| Mar 29, 31| **Tue:** Overflow Topics</br>*Guest Speaker:* Dr. Mohammad Almalag, CNU (ODU 2013)<br/>**Thu (ONLINE):** 2 Guest Speakers</br>*Guest Speaker:* Dr. Alexander Nwala, Indiana Univ (ODU 2020)<br/>*Guest Speaker:* Dr. Shahram Mohrehkesh, Intuit (ODU 2015)| | |
+|[11](agenda.md#week-11)| Mar 29, 31| **Tue:** Experimental Methods</br>*Guest Speaker:* Dr. Mohammad Almalag, CNU (ODU 2013)<br/>**Thu (ONLINE):** 2 Guest Speakers</br>*Guest Speaker:* Dr. Alexander Nwala, Indiana Univ (ODU 2020)<br/>*Guest Speaker:* Dr. Shahram Mohrehkesh, Intuit (ODU 2015)| | |
 |[12](agenda.md#week-12)| Apr 5, 7| Student Dissertation Presentations | | final presentation slides (Apr 5)|
 |[13](agenda.md#week-13)| Apr 12, 14| Student Dissertation Presentations | | |
 |[14](agenda.md#week-14)| Apr 19, 21| Student Dissertation Presentations | | |
