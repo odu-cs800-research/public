@@ -24,7 +24,7 @@ Heng
 https://www.proquest.com/docview/2551201787/previewPDF/D7F210305FA4434CPQ/2, 164 pgs
 
 Yash
-* Vikas Ganjigunte Ashok, "Non-Visual Web Browsing: From Accessibility with Screen Readers to Usability with Assistants", PhD Thesis,  **State University of New York at Stony Brook**, December 2018, https://www.proquest.com/openview/b8edc4d528284f34e8b7e6390b651b8e/1 - *need new link, not full dissertation*
+* Vikas Ganjigunte Ashok, "Non-Visual Web Browsing: From Accessibility with Screen Readers to Usability with Assistants", PhD Thesis,  **State University of New York at Stony Brook**, December 2018, https://www-proquest-com.proxy.lib.odu.edu/docview/2212267551, 93 pgs
 
 Omar
 * Aditya Grover,  "Learning to represent and reason under limited supervision", PhD Thesis, **Stanford University**, August 2020, https://searchworks.stanford.edu/view/13680844, 237 pgs
@@ -33,7 +33,7 @@ Laura
 * Li, Lusi, "Multi-View Robust Representation Learning", PhD Thesis, **University of Rhode Island**, 2021, https://digitalcommons.uri.edu/oa_diss/1249, 146 pgs
 
 Mohan
-* Billah, Syed Masum, "Transforming Assistive Technologies from the Ground up for People with Vision Impairments", PhD Thesis, **State University of New York at Stony Brook**, August 2019, https://www.proquest.com/openview/43c2b65d0c79743d67b0194af3b4d34a/1 - *need new link, not full dissertation*
+* Billah, Syed Masum, "Transforming Assistive Technologies from the Ground up for People with Vision Impairments", PhD Thesis, **State University of New York at Stony Brook**, August 2019, https://www-proquest-com.proxy.lib.odu.edu/docview/2313355495, 135 pgs
 
 Xiangrui
 * Qiao Zhang, "Joint Linear and Nonlinear Computation with Data Encryption for Efficient Privacy-Preserving Deep Learning", PhD thesis, **Old Dominion University**, Dec 2021, https://digitalcommons.odu.edu/ece_etds/230/, 184 pgs
