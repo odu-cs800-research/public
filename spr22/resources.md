@@ -235,9 +235,9 @@ Slide References
 * Jean-luc Doumont, [Creating Effective Slides](https://www.youtube.com/watch?v=meBXuTIPJQk), talk April 4, 2013 at Clark Center, Stanford Univeristy, video (1:03:03)
 * English Communication for Scientists, [Giving Oral Presentations](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/giving-oral-presentations-14239332) (includes delivering as a non-native speaker)
 
-**Thurs, Feb 17** - Academic Communication - writing
+**Thurs, Feb 17** - Academic Publishing
 
-Slide References - Academic Publishing
+Slide References
 
 * Dr. Michael L. Nelson, "The Spectrum of Scholarly Communication” ([Nov 2019 WS-DL Luncheon presentation](https://docs.google.com/presentation/d/1FQfDkPpsw_mVSVn_cwMiBCJbnrdRnyjsUbworMIdL-I/) and [updated version for CS 395-Spring 2020](https://docs.google.com/presentation/d/1IwxSSkiDute5iwphX5_xbLly3cm85Hgo08BX1s1SlzA/))
 * “Citation Analysis and Other Metrics” (CS 891–Fall 2017, https://phonedude.github.io/cs891-f17/)
@@ -262,9 +262,9 @@ Slide References - Academic Publishing
 
 ## Week 7
 
-**Tues, Feb 22** - Academic Communication - writing, Academic Reviewing
+**Tues, Feb 22** - Academic Communication - writing
 
-Slide References - Academic Communication - writing
+Slide References
 
 * Jimmy Lin, [Writing Pet Peeves](https://github.com/lintool/guide/blob/master/writing-pet-peeves.md)
 * Tamara Munzner, [Paper and Talk Writing](http://www.cs.ubc.ca/~tmm/policy.txt) (scroll down to this section)
@@ -279,18 +279,64 @@ More Writing References
 * ["Clarity in Technical Reporting"](http://www.cs.odu.edu/~mln/NASA-64-sp7010.pdf), NASA report - lots of really good information and guidelines
 * [ODU's Writing Center](https://www.odu.edu/al/centers/writing-center)
 
+**Thurs, Feb 24** -  Academic Communication - writing, Academic Reviewing
+
 Slide References - Academic Reviewing
 
 * Timothy Roscoe, [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
 * Alan Jay Smith, [Task of the Referee](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/CSD-89-511.pdf)
 
-**Thurs, Feb 24** - Visualization Basics, Experimental Methods
-
 ## Week 8
 
-**Tues, Mar 1** - Grant Process
+**Tues, Mar 1** -  Visualization Basics
 
-**Thurs, Mar 3** - Grant Writing
+I've added my example walkthroughs for R and Python from CS 432/532 in the Media Gallery ([slides](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/preview?rm=minimal)) - these will be at the bottom of the Media Gallery if sorted by "Creation Date"
+
+* CS 432/532 - Mod 03, p3 - Charts with R (26:12)
+  * [InfoVis in R - Google Colab notebook](https://github.com/odu-cs432-websci/public/blob/main/Mod_03_InfoVis_R.ipynb) - click the "Open in Colab" button
+* CS 432/532 - Mod 04, p4 - Charts with Python (19:12)
+  * [InfoVis in Python - Google Colab notebook](https://github.com/odu-cs432-websci/public/blob/main/Mod_03_InfoVis_Python.ipynb) - click the "Open in Colab" button
+
+InfoVis References
+
+* Tamara Munzner, [VAD minicourse](http://www.cs.ubc.ca/~tmm/talks.html#minicourse14), June 2014
+* Tamara Munzner, [Visualization Analysis and Design](https://www.cs.ubc.ca/~tmm/vadbook/), AK Peters / CRC Press, Oct 2014
+* [What, Why, and How to Read Empirical CDF](https://towardsdatascience.com/what-why-and-how-to-read-empirical-cdf-123e2b922480)
+* Tamara Munzner's [D3 Unconference Keynote](https://youtu.be/jVC6SQS23ak), Nov 2015 (55 min)
+
+R References
+
+* [The R Project for Statistical Computing](https://www.r-project.org/)
+* [RStudio](https://rstudio.com/)
+* [R Documentation](https://www.rdocumentation.org/)
+* [Connect RStudio to Git and GitHub](https://happygitwithr.com/rstudio-git-github.html)
+* ["An Incomplete R Tutorial"](https://www.cs.odu.edu/~mweigle/courses/cs795/mklein-IntroR/lecture/), Martin Klein
+* [RStudio and R for Beginners](https://education.rstudio.com/learn/beginner/)
+* [R for Data Science](https://r4ds.had.co.nz/)
+* [R TidyVerse packages](https://www.tidyverse.org/)
+* Create new Google Colab R notebook, <https://colab.research.google.com/notebook#create=true&language=r>
+
+ggplot2 References
+
+* [How to make any plot in ggplot2? | ggplot2 Tutorial](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
+* [The Complete ggplot2 Tutorial - Part1 | Introduction To ggplot2 (Full R code)](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
+* [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
+* [Data Visualization Cheat Sheet](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)
+* [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+* [Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
+
+InfoVis in Python References
+
+* [The 7 most popular ways to plot data in Python](https://opensource.com/article/20/4/plot-data-python)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Plotly](https://github.com/plotly/plotly.py)
+* [Bokeh](https://docs.bokeh.org/en/latest/index.html)
+* [Altair](https://altair-viz.github.io/)
+* [Pygal](http://www.pygal.org/en/stable/)
+* [Pandas](https://pandas.pydata.org/)
+
+**Thurs, Mar 3** - Grant Process and Grant Writing
 
 ## Week 9
 
@@ -306,9 +352,9 @@ Slide References - Academic Reviewing
 
 ## Week 11
 
-**Tues, Mar 29** - TBA
+**Tues, Mar 29** - Experimental Methods
 
-**Thurs, Mar 31** - TBA
+**Thurs, Mar 31** - 2 Guest Speakers
 
 ## Week 12
 

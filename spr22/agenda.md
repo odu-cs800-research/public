@@ -210,21 +210,14 @@ Guest Speaker: Dr. Martin Klein, Los Alamos National Laboratory (ODU 2011)
 
 [References and Additional Resources for Week 8](resources.md#week-8)
 
-**Tues, Mar 1** - Visualization Basics, Experimental Methods
+**Tues, Mar 1** - Visualization Basics
 
-Due before class:
+Materials:
 
-* Watch my Intro to InfoVis lectures from CS 432/532 in the Media Gallery ([slides](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/preview?rm=minimal))
-  * CS 432/532 - Mod 03, p1 - InfoVis Principles (12:15)
-  * CS 432/532 - Mod 03, p2 - Visualization Idioms (12:39)
-  * CS 432/532 - Mod 03, p3 - Charts with R (26:12)
-    * [InfoVis in R - Google Colab notebook](https://github.com/odu-cs432-websci/public/blob/main/Mod_03_InfoVis_R.ipynb) - click the "Open in Colab" button
-  * CS 432/532 - Mod 04, p4 - Charts with Python (19:12)
-    * [InfoVis in Python - Google Colab notebook](https://github.com/odu-cs432-websci/public/blob/main/Mod_03_InfoVis_Python.ipynb) - click the "Open in Colab" button
+* Visualization Basics slides ([Module-03 InfoVis](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/preview?rm=minimal))
+* [Info Vis in R Tutorial - Google Colab notebook](https://github.com/odu-cs800-research/public/blob/main/CS800_RTutorial.ipynb) - click the "Open in Colab" button
 
 Guest Speaker: Dr. Justin Brunelle, MITRE (ODU 2016)
-
-*Materials/assignments to be added*
 
 **Thurs, Mar 3** - Grant Process and Grant Writing
 
