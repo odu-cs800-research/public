@@ -11,6 +11,8 @@ TR 11am-12:15pm, [GORNT 0205](https://clt.odu.edu/directions-to-gornto) and onli
 
 [GitHub Classroom](https://classroom.github.com/classrooms/58780854-odu-cs-800-research-methods-spring-2022)
 
+[Twitter #cs800s22 #TIL](https://twitter.com/search?q=%23cs800s22%20%23TIL&f=live)
+
 ## Schedule
 
 *Note: This is a tentative schedule and will be updated throughout the semester.*
