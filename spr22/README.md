@@ -29,7 +29,7 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[4](agenda.md#week-4)| Feb 1, 3| **Tue:** Research Careers<br/>*Guest Speaker:* Dr. Wie Yusuf, Career Pathways<br/>**Thu:** Research Careers <br/>*Guest Speaker:* Abbie Basile, ODU Libraries | [dissertation presentation](dissertation.md) | HW3 (Feb 3) |
 |[5](agenda.md#week-5)| Feb 8, 10|**Tue:** Writing About Others' Work, Research Ethics<br/>**Thu:** Research Ethics<br/>*Guest Speaker:* Karen Vaughan, ODU Libraries | [HW4](HW4.md) |  |
 |[6](agenda.md#week-6)| Feb 15, 17| **Tue:** Academic Communication - presenting<br/>**Thu:** Academic Publishing<br/>*Guest Speaker:* Megan Boeshart, ODU Writing Center |  | dissertation selection (Feb 17)|
-|[7](agenda.md#week-7)| Feb 22, 24| **Tue:** Academic Communication - writing<br/>*Guest Speaker:* Bhanuka Mahanama (ODU PhD student)<br/>**Thu:** Academic Reviewing<br/>*Guest Speaker:* Dr. Martin Klein, LANL (ODU 2011)|  | HW4 (Feb 22) |
+|[7](agenda.md#week-7)| Feb 22, 24| **Tue:** Academic Publishing, Academic Communication - writing<br/>*Guest Speaker:* Bhanuka Mahanama (ODU PhD student)<br/>**Thu:**  Academic Communication - writing, Academic Reviewing<br/>*Guest Speaker:* Dr. Martin Klein, LANL (ODU 2011)|  | HW4 (Feb 22) |
 |[8](agenda.md#week-8)| Mar 1, 3| **Tue:** Visualization Basics<br/>*Guest Speaker:* Dr. Justin Brunelle, MITRE (ODU 2016)<br/>**Thu:** Grant Process and Grant Writing<br/>*Guest Speaker:* Dr. Ahmed AlSum, Google (ODU 2014)| HW5 | |
 || Mar 8, 11| **NO CLASS - Spring Break** |
 |[9](agenda.md#week-9)| Mar 15, 17<br/>ONLINE| ODU-CS Faculty Presentations<br/>**Tue:** Dr. Jiangwen (Javon) Sun <br/>**Thu:** Dr. Jian Wu| | HW5 (Mar 17) |
