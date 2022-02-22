@@ -170,9 +170,9 @@ Due *before class*:
 
 Materials:
 
-* Academic Publishing and Citations slides ([Week-06b-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal))
+* Academic Publishing and Citations slides ([Week-06b-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal)) [1-31]
 
-Guest Speaker: Megan Boeshart, ODU Writing Center
+Guest Speaker: Megan Boeshart, [ODU Writing Center](https://www.odu.edu/al/centers/writing-center)
 
 **Assignments**
 
@@ -182,22 +182,24 @@ Guest Speaker: Megan Boeshart, ODU Writing Center
 
 [References and Additional Resources for Week 7](resources.md#week-7)
 
-**Tues, Feb 22** - Academic Communication - writing
+**Tues, Feb 22** - Academic Publishing, Academic Communication - writing
 
 Due by 11:59pm:
 
-* HW5
+* HW4
 
 Materials:
 
-* Academic Communication - writing slides ([Week-07a-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1))
+* Academic Publishing and Citations slides ([Week-06b-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal)) [32-65]
+* Academic Communication - writing slides ([Week-07a-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1)) [1-22]
 
-Guest Speaker: Bhanuka Mahanama, ODU PhD student
+Guest Speaker: Bhanuka Mahanama, ODU PhD student ([slides](02-22-CS-800-Spr22-life-as-phd-student.pdf))
 
-**Thurs, Feb 24** - Academic Reviewing
+**Thurs, Feb 24** - Academic Communication - writing, Academic Reviewing
 
 Materials:
 
+* Academic Communication - writing slides ([Week-07a-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1)) [22-]
 * Academic Reviewing slides ([Week-07b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
 
 Guest Speaker: Dr. Martin Klein, Los Alamos National Laboratory (ODU 2011)
@@ -219,6 +221,11 @@ Materials:
 
 Guest Speaker: Dr. Justin Brunelle, MITRE (ODU 2016)
 
+**Assignments**
+
+* HW5 - *to be posted*
+* Review next week's materials
+
 **Thurs, Mar 3** - Grant Process and Grant Writing
 
 *Materials/assignments to be added*
@@ -231,9 +238,15 @@ Guest Speaker: Dr. Ahmed AlSum, Google (ODU 2014)
 
 **Tues, Mar 15** - ODU Faculty Presentations
 
+Guest Speaker: Dr. Jiangwen (Javon) Sun
+
 **Thurs, Mar 17** - ODU Faculty Presentations
 
-*Materials/assignments to be added*
+Due by 11:59pm:
+
+* HW5
+
+Guest Speaker: Dr. Jian Wu
 
 ## Week 10
 
@@ -241,19 +254,29 @@ Guest Speaker: Dr. Ahmed AlSum, Google (ODU 2014)
 
 **Tues, Mar 22** - ODU Faculty Presentations
 
+Due by 11:59pm:
+
+* draft presentation slides
+
+Guest Speaker: Dr. Michael L. Nelson
+
 **Thurs, Mar 24** - ODU Faculty Presentations
 
-*Materials/assignments to be added*
+Guest Speaker: Dr. Faryaneh Poursardar
 
 ## Week 11
 
 [References and Additional Resources for Week 11](resources.md#week-11)
 
-**Tues, Mar 29** - TBA
+**Tues, Mar 29** - Experimental Methods
 
-**Thurs, Mar 31** - TBA
+Guest Speaker: Dr. Mohammad Almalag, CNU (ODU 2013)
 
-*Materials/assignments to be added*
+**Thurs, Mar 31** - Two Guest Speakers
+
+Guest Speaker: Dr. Alexander Nwala, Indiana Univ (ODU 2020)
+
+Guest Speaker: Dr. Shahram Mohrehkesh, Intuit (ODU 2015)
 
 ## Week 12
 
@@ -261,7 +284,7 @@ Guest Speaker: Dr. Ahmed AlSum, Google (ODU 2014)
 
 Due before class:
 
-* HW-presentation
+* Final Presentation Slides
 
 **Tues, Apr 5** - Student Dissertation Presentations
 
