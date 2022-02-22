@@ -193,7 +193,7 @@ Materials:
 * Academic Publishing and Citations slides ([Week-06b-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal)) [32-65]
 * Academic Communication - writing slides ([Week-07a-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1)) [1-22]
 
-Guest Speaker: Bhanuka Mahanama, ODU PhD student ([slides](02-22-CS-800-Spr22-life-as-phd-student.pdf)
+Guest Speaker: Bhanuka Mahanama, ODU PhD student ([slides](02-22-CS-800-Spr22-life-as-phd-student.pdf))
 
 **Thurs, Feb 24** - Academic Communication - writing, Academic Reviewing
 
