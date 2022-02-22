@@ -182,7 +182,7 @@ Guest Speaker: Megan Boeshart, [ODU Writing Center](https://www.odu.edu/al/cente
 
 [References and Additional Resources for Week 7](resources.md#week-7)
 
-**Tues, Feb 22** - Academic Communication - writing
+**Tues, Feb 22** - Academic Publishing, Academic Communication - writing
 
 Due by 11:59pm:
 
@@ -190,15 +190,16 @@ Due by 11:59pm:
 
 Materials:
 
-* Academic Publishing and Citations slides ([Week-06b-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal)) [32-]
-* Academic Communication - writing slides ([Week-07a-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1))
+* Academic Publishing and Citations slides ([Week-06b-Publishing](https://docs.google.com/presentation/d/109mAqphewOyDAE0weaEEVEa8rnuaVbQC8Kb7Fs7PtQY/preview?rm=minimal)) [32-65]
+* Academic Communication - writing slides ([Week-07a-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1)) [1-22]
 
 Guest Speaker: Bhanuka Mahanama, ODU PhD student
 
-**Thurs, Feb 24** - Academic Reviewing
+**Thurs, Feb 24** - Academic Communication - writing, Academic Reviewing
 
 Materials:
 
+* Academic Communication - writing slides ([Week-07a-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1)) [22-]
 * Academic Reviewing slides ([Week-07b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
 
 Guest Speaker: Dr. Martin Klein, Los Alamos National Laboratory (ODU 2011)
