@@ -199,8 +199,7 @@ Guest Speaker: Bhanuka Mahanama, ODU PhD student ([slides](02-22-CS-800-Spr22-li
 
 Materials:
 
-* Academic Communication - writing slides ([Week-07a-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1)) [22-]
-* Academic Reviewing slides ([Week-07b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
+* Academic Communication - writing slides ([Week-07a-Writing](https://docs.google.com/presentation/d/1_1foiuLGfWhlZgg4QOG5iJH_O3uBGPqyqcatDs-dRo8/preview?rm=minimal&slide=id.p1)) [22-37]
 
 Guest Speaker: Dr. Martin Klein, Los Alamos National Laboratory (ODU 2011)
 
@@ -226,7 +225,11 @@ Guest Speaker: Dr. Justin Brunelle, MITRE (ODU 2016)
 * Review [additional resources](resources.md#week-8) (videos, Google Colab notebooks) related to Parts 3 and 4 of the above slides
 * Review next week's materials
 
-**Thurs, Mar 3** - Grant Process and Grant Writing
+**Thurs, Mar 3** - Academic Reviewing, Grant Process and Grant Writing
+
+Materials:
+
+* Academic Reviewing slides ([Week-07b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
 
 *Materials/assignments to be added*
 
