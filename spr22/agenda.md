@@ -216,14 +216,14 @@ Guest Speaker: Dr. Martin Klein, Los Alamos National Laboratory (ODU 2011)
 
 Materials:
 
-* Visualization Basics slides ([Module-03 InfoVis](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/preview?rm=minimal))
-* [Info Vis in R Tutorial - Google Colab notebook](https://github.com/odu-cs800-research/public/blob/main/CS800_RTutorial.ipynb) - click the "Open in Colab" button
+* Intro to InfoVis slides from CS 432/532 ([Module-03 InfoVis](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/preview?rm=minimal)) [1-25] (Parts 1 and 2)
 
 Guest Speaker: Dr. Justin Brunelle, MITRE (ODU 2016)
 
 **Assignments**
 
 * HW5 - *to be posted*
+* Review [additional resources](resources.md#week-8) (videos, Google Colab notebooks) related to Parts 3 and 4 of the above slides
 * Review next week's materials
 
 **Thurs, Mar 3** - Grant Process and Grant Writing
@@ -234,9 +234,9 @@ Guest Speaker: Dr. Ahmed AlSum, Google (ODU 2014)
 
 ## Week 9
 
-[References and Additional Resources for Week 9](resources.md#week-9)
-
 **Tues, Mar 15** - ODU Faculty Presentations
+
+*Zoom-only*
 
 Guest Speaker: Dr. Jiangwen (Javon) Sun
 
@@ -250,9 +250,9 @@ Guest Speaker: Dr. Jian Wu
 
 ## Week 10
 
-[References and Additional Resources for Week 10](resources.md#week-10)
-
 **Tues, Mar 22** - ODU Faculty Presentations
+
+*Zoom-only*
 
 Due by 11:59pm:
 
@@ -264,23 +264,29 @@ Guest Speaker: Dr. Michael L. Nelson
 
 Guest Speaker: Dr. Faryaneh Poursardar
 
+**Assignment**
+
+* Review next week's materials
+
 ## Week 11
 
 [References and Additional Resources for Week 11](resources.md#week-11)
 
 **Tues, Mar 29** - Experimental Methods
 
+*Materials/assignments to be added*
+
 Guest Speaker: Dr. Mohammad Almalag, CNU (ODU 2013)
 
 **Thurs, Mar 31** - Two Guest Speakers
+
+*Zoom-only*
 
 Guest Speaker: Dr. Alexander Nwala, Indiana Univ (ODU 2020)
 
 Guest Speaker: Dr. Shahram Mohrehkesh, Intuit (ODU 2015)
 
 ## Week 12
-
-[References and Additional Resources for Week 12](resources.md#week-12)
 
 Due before class:
 
@@ -290,24 +296,14 @@ Due before class:
 
 **Thurs, Apr 7** - Student Dissertation Presentations
 
-*Materials/assignments to be added*
-
 ## Week 13
-
-[References and Additional Resources for Week 13](resources.md#week-13)
 
 **Tues, Apr 14** - Student Dissertation Presentations
 
 **Thurs, Apr 16** - Student Dissertation Presentations
 
-*Materials/assignments to be added*
-
 ## Week 14
-
-[References and Additional Resources for Week 14](resources.md#week-14)
 
 **Tues, Apr 19** - Student Dissertation Presentations
 
 **Thurs, Apr 21** - Student Dissertation Presentations
-
-*Materials/assignments to be added*

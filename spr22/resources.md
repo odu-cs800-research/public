@@ -290,11 +290,11 @@ Slide References - Academic Reviewing
 
 **Tues, Mar 1** -  Visualization Basics
 
-I've added my example walkthroughs for R and Python from CS 432/532 in the Media Gallery ([slides](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/preview?rm=minimal)) - these will be at the bottom of the Media Gallery if sorted by "Creation Date"
+I've added my example walkthroughs for R and Python (Parts 3 and 4) from CS 432/532 in the Media Gallery ([slides](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/preview?rm=minimal) [26-35]) - these will be at the bottom of the Media Gallery if sorted by "Creation Date"
 
-* CS 432/532 - Mod 03, p3 - Charts with R (26:12)
+* CS 432/532 - Mod 03, p3 - Charts with R (26:12) [26-32]
   * [InfoVis in R - Google Colab notebook](https://github.com/odu-cs432-websci/public/blob/main/Mod_03_InfoVis_R.ipynb) - click the "Open in Colab" button
-* CS 432/532 - Mod 04, p4 - Charts with Python (19:12)
+* CS 432/532 - Mod 04, p4 - Charts with Python (19:12) [33-35]
   * [InfoVis in Python - Google Colab notebook](https://github.com/odu-cs432-websci/public/blob/main/Mod_03_InfoVis_Python.ipynb) - click the "Open in Colab" button
 
 InfoVis References
