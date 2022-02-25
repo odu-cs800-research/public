@@ -338,9 +338,9 @@ Slide References - Academic Reviewing
 
 Slide References - Grants and Grant Writing
 
-* Cindy Grimm (Oregon State), ["How to write an NSF proposal"](https://web.engr.oregonstate.edu/~grimmc/NSF/nsf.html)
+* Cindy Grimm (Oregon State), [How to write an NSF proposal](https://web.engr.oregonstate.edu/~grimmc/NSF/nsf.html)
 * Lorenz Hauser (Univ of Washington), [Outline of Typical NSF proposal](https://courses.washington.edu/fish521/Documents/NSF%20proposal%20outline.pdf)
-* Susan Finger, ["Advice on Writing Proposals to the NSF"](https://www.cs.cmu.edu/~sfinger/advice/advice.html)
+* Susan Finger, [Advice on Writing Proposals to the NSF](https://www.cs.cmu.edu/~sfinger/advice/advice.html)
 
 ## Week 9
 
