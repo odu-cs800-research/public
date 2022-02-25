@@ -279,13 +279,6 @@ More Writing References
 * ["Clarity in Technical Reporting"](http://www.cs.odu.edu/~mln/NASA-64-sp7010.pdf), NASA report - lots of really good information and guidelines
 * [ODU's Writing Center](https://www.odu.edu/al/centers/writing-center)
 
-**Thurs, Feb 24** -  Academic Communication - writing, Academic Reviewing
-
-Slide References - Academic Reviewing
-
-* Timothy Roscoe, [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
-* Alan Jay Smith, [Task of the Referee](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/CSD-89-511.pdf)
-
 ## Week 8
 
 **Tues, Mar 1** -  Visualization Basics
@@ -336,7 +329,18 @@ InfoVis in Python References
 * [Pygal](http://www.pygal.org/en/stable/)
 * [Pandas](https://pandas.pydata.org/)
 
-**Thurs, Mar 3** - Grant Process and Grant Writing
+**Thurs, Mar 3** - Academic Reviewing, Grants and Grant Writing
+
+Slide References - Academic Reviewing
+
+* Timothy Roscoe, [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
+* Alan Jay Smith, [Task of the Referee](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/CSD-89-511.pdf)
+
+Slide References - Grants and Grant Writing
+
+* Cindy Grimm (Oregon State), ["How to write an NSF proposal"](https://web.engr.oregonstate.edu/~grimmc/NSF/nsf.html)
+* Lorenz Hauser (Univ of Washington), [Outline of Typical NSF proposal](https://courses.washington.edu/fish521/Documents/NSF%20proposal%20outline.pdf)
+* Susan Finger, ["Advice on Writing Proposals to the NSF"](https://www.cs.cmu.edu/~sfinger/advice/advice.html)
 
 ## Week 9
 
