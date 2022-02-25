@@ -225,15 +225,18 @@ Guest Speaker: Dr. Justin Brunelle, MITRE (ODU 2016)
 * Review [additional resources](resources.md#week-8) (videos, Google Colab notebooks) related to Parts 3 and 4 of the above slides
 * Review next week's materials
 
-**Thurs, Mar 3** - Academic Reviewing, Grant Process and Grant Writing
+**Thurs, Mar 3** - Academic Reviewing, Grants and Grant Writing
 
 Materials:
 
-* Academic Reviewing slides ([Week-07b-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
-
-*Materials/assignments to be added*
+* Academic Reviewing slides ([Week-08a-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
+* Grants and Grant Writing slides (Week-08b-Grants) - *to be posted*
 
 Guest Speaker: Dr. Ahmed AlSum, Google (ODU 2014)
+
+**Assignment**
+
+* Enjoy Spring Break!
 
 ## Week 9
 
