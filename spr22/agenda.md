@@ -215,13 +215,13 @@ Guest Speaker: Dr. Martin Klein, Los Alamos National Laboratory (ODU 2011)
 
 Materials:
 
-* Intro to InfoVis slides from CS 432/532 ([Module-03 InfoVis](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/preview?rm=minimal)) [1-25] (Parts 1 and 2)
+* Intro to InfoVis slides from CS 432/532 ([Module-03 InfoVis](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/preview)) [1-25] (Parts 1 and 2)
 
 Guest Speaker: Dr. Justin Brunelle, MITRE (ODU 2016)
 
 **Assignments**
 
-* HW5 - *to be posted*
+* [HW5](HW5.md) - Revision of Literature Review
 * Review [additional resources](resources.md#week-8) (videos, Google Colab notebooks) related to Parts 3 and 4 of the above slides
 * Review next week's materials
 
@@ -229,8 +229,8 @@ Guest Speaker: Dr. Justin Brunelle, MITRE (ODU 2016)
 
 Materials:
 
-* Academic Reviewing slides ([Week-08a-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview?rm=minimal))
-* Grants and Grant Writing slides (Week-08b-Grants) - *to be posted*
+* Academic Reviewing slides ([Week-08a-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview))
+* Grants and Grant Writing slides (Week-08b-Grants)[https://docs.google.com/presentation/d/1NmHj1ITEM1ieMwAQduX0o9NU-O7QC1gIQ4ND_9_0iRY/preview?slide=id.p1]
 
 Guest Speaker: Dr. Ahmed AlSum, Google (ODU 2014)
 
