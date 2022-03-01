@@ -230,7 +230,7 @@ Guest Speaker: Dr. Justin Brunelle, MITRE (ODU 2016)
 Materials:
 
 * Academic Reviewing slides ([Week-08a-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview))
-* Grants and Grant Writing slides (Week-08b-Grants)[https://docs.google.com/presentation/d/1NmHj1ITEM1ieMwAQduX0o9NU-O7QC1gIQ4ND_9_0iRY/preview?slide=id.p1]
+* Grants and Grant Writing slides ([Week-08b-Grants](https://docs.google.com/presentation/d/1NmHj1ITEM1ieMwAQduX0o9NU-O7QC1gIQ4ND_9_0iRY/preview?slide=id.p1))
 
 Guest Speaker: Dr. Ahmed AlSum, Google (ODU 2014)
 
