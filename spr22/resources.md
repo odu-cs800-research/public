@@ -329,12 +329,16 @@ InfoVis in Python References
 * [Pygal](http://www.pygal.org/en/stable/)
 * [Pandas](https://pandas.pydata.org/)
 
-**Thurs, Mar 3** - Academic Reviewing, Grants and Grant Writing
+**Thurs, Mar 3** - Academic Reviewing
 
-Slide References - Academic Reviewing
+Slide References 
 
 * Timothy Roscoe, [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
 * Alan Jay Smith, [Task of the Referee](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/CSD-89-511.pdf)
+
+## Week 11
+
+**Tues, Mar 29** - Academic Reviewing, Grants and Grant Writing
 
 Slide References - Grants and Grant Writing
 
@@ -342,38 +346,5 @@ Slide References - Grants and Grant Writing
 * Lorenz Hauser (Univ of Washington), [Outline of Typical NSF proposal](https://courses.washington.edu/fish521/Documents/NSF%20proposal%20outline.pdf)
 * Susan Finger, [Advice on Writing Proposals to the NSF](https://www.cs.cmu.edu/~sfinger/advice/advice.html)
 
-## Week 9
-
-**Tues, Mar 15** - ODU Faculty Presentations
-
-**Thurs, Mar 17** - ODU Faculty Presentations
-
-## Week 10
-
-**Tues, Mar 22** - ODU Faculty Presentations
-
-**Thurs, Mar 24** - ODU Faculty Presentations
-
-## Week 11
-
-**Tues, Mar 29** - Experimental Methods
 
 **Thurs, Mar 31** - 2 Guest Speakers
-
-## Week 12
-
-**Tues, Apr 5** - Student Dissertation Presentations
-
-**Thurs, Apr 7** - Student Dissertation Presentations
-
-## Week 13
-
-**Tues, Apr 14** - Student Dissertation Presentations
-
-**Thurs, Apr 16** - Student Dissertation Presentations
-
-## Week 14
-
-**Tues, Apr 19** - Student Dissertation Presentations
-
-**Thurs, Apr 21** - Student Dissertation Presentations
