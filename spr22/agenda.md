@@ -251,7 +251,7 @@ Due by 11:59pm:
 
 * HW5
 
-Guest Speaker: Dr. Jian Wu
+Guest Speaker: Dr. Jian Wu ([slides](2022-cs800-weigle-jwu.pdf))
 
 ## Week 10
 
