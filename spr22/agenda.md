@@ -251,7 +251,7 @@ Due by 11:59pm:
 
 * HW5
 
-Guest Speaker: Dr. Jian Wu ([slides](https://www.cs.odu.edu/~mweigle/courses/cs800-s22/2022-cs800-weigle-jwu.pdf))
+Guest Speaker: Dr. Jian Wu ([slides](https://www.cs.odu.edu/~mweigle/courses/cs800-s22/03-17-2022-cs800-weigle-jwu.pdf))
 
 ## Week 10
 
