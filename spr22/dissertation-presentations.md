@@ -18,6 +18,8 @@ Skanda
 Emily
 * Justin F. Brunelle, "Scripts in a Frame: A Framework for Archiving Deferred Representations", PhD Thesis, **Old Dominion University**, 2016, https://digitalcommons.odu.edu/computerscience_etds/10/, 288 pgs
 
+Brian
+
 Heng
 * Yi He, "Machine Learning in Non-Stationary Environments: A Data Perspective", PhD thesis, **University of Louisiana at Lafayette**, Fall 2020, 
 https://www.proquest.com/docview/2551201787/previewPDF/D7F210305FA4434CPQ/2, 164 pgs
