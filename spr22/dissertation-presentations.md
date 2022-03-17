@@ -4,6 +4,7 @@ Yasasi
 * Komogortsev, Oleg Vladimirovich. "Eye Movement Prediction by Oculomotor Plant Modeling with Kalman Filter", PhD Thesis, **Kent State University**, 2007, http://rave.ohiolink.edu/etdc/view?acc_num=kent1190386786, 120 pgs
 
 Abdulmonem
+* Abdelrasoul, Maha. "New Methods to Improve Protein Structure Modeling", PhD Thesis, **Old Dominion University**, 2018, https://digitalcommons.odu.edu/computerscience_etds/39/
 
 John
 * Beyazit, Ege. "Online Learning with Varying Feature Spaces", PhD Thesis, **University of Louisiana at Lafayette**, 2021, https://www.proquest.com/docview/2550705356/376480A10EAE4C3CPQ/1, 137 pgs
@@ -16,8 +17,6 @@ Skanda
 
 Emily
 * Justin F. Brunelle, "Scripts in a Frame: A Framework for Archiving Deferred Representations", PhD Thesis, **Old Dominion University**, 2016, https://digitalcommons.odu.edu/computerscience_etds/10/, 288 pgs
-
-Brian
 
 Heng
 * Yi He, "Machine Learning in Non-Stationary Environments: A Data Perspective", PhD thesis, **University of Louisiana at Lafayette**, Fall 2020, 
