@@ -33,7 +33,7 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[8](agenda.md#week-8)| Mar 1, 3| **Tue:** Visualization Basics<br/>*Guest Speaker:* Dr. Justin Brunelle, MITRE (ODU 2016)<br/>**Thu:** Academic Reviewing<br/>*Guest Speaker:* Dr. Ahmed AlSum, Google (ODU 2014)| [HW5](HW5.md) | |
 || Mar 8, 11| **NO CLASS - Spring Break** |
 |[9](agenda.md#week-9)| Mar 15, 17| ODU-CS Faculty Presentations<br/>**Tue (ONLINE):** Dr. Jiangwen (Javon) Sun <br/>**Thu:** Dr. Jian Wu| | HW5 (Mar 17) |
-|[10](agenda.md#week-10)| Mar 22, 24| ODU-CS Faculty Presentations<br/>**Tue (ONLINE):** Dr. Michael Nelson <br/>**Thu:** Dr. Faryaneh Poursardar | | draft presentation slides (Mar 22)|
+|[10](agenda.md#week-10)| Mar 22, 24| ODU-CS Faculty Presentations<br/>**Tue (ONLINE):** Dr. Michael Nelson <br/>**Thu (ONLINE):** Dr. Faryaneh Poursardar | | draft presentation slides (Mar 22)|
 |[11](agenda.md#week-11)| Mar 29, 31| **Tue:** Academic Reviewing, Grants and Grant Writing</br>*Guest Speaker:* Dr. Mohammad Almalag, CNU (ODU 2013)<br/>**Thu (ONLINE):** 2 Guest Speakers</br>*Guest Speaker:* Dr. Alexander Nwala, Indiana Univ (ODU 2020)<br/>*Guest Speaker:* Dr. Shahram Mohrehkesh, Intuit (ODU 2015)| | |
 |[12](agenda.md#week-12)| Apr 5, 7| Student Dissertation Presentations | | final presentation slides (Apr 5)|
 |[13](agenda.md#week-13)| Apr 12, 14| Student Dissertation Presentations | | |
