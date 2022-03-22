@@ -225,7 +225,7 @@ Guest Speaker: Dr. Justin Brunelle, MITRE (ODU 2016)
 * Review [additional resources](resources.md#week-8) (videos, Google Colab notebooks) related to Parts 3 and 4 of the above slides
 * Review next week's materials
 
-**Thurs, Mar 3** - Academic Reviewing, Grants and Grant Writing
+**Thurs, Mar 3** - Academic Reviewing
 
 Materials:
 
@@ -263,11 +263,15 @@ Due by 11:59pm:
 
 * draft presentation slides
 
-Guest Speaker: Dr. Michael L. Nelson
+Guest Speaker: Dr. Michael L. Nelson ([slides](https://docs.google.com/presentation/d/1H4z2rqJvrWReCyw9eawh-XIDpwHk_Qh02Gltuk0jX4o/edit#slide=id.gae7496bce2_2_75))
 
 **Thurs, Mar 24** - ODU Faculty Presentations
 
 Guest Speaker: Dr. Faryaneh Poursardar
+
+Materials:
+
+* Academic Reviewing slides ([Week-08-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview)) [10-]
 
 **Assignment**
 
@@ -277,8 +281,7 @@ Guest Speaker: Dr. Faryaneh Poursardar
 
 [References and Additional Resources for Week 11](resources.md#week-11)
 
-**Tues, Mar 29** - Experimental Methods
-
+**Tues, Mar 29** - Grants and Grant Writing
 
 Materials
 
