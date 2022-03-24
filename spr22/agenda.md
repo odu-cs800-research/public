@@ -267,7 +267,7 @@ Guest Speaker: Dr. Michael L. Nelson ([slides](https://docs.google.com/presentat
 
 **Thurs, Mar 24** - ODU Faculty Presentations
 
-Guest Speaker: Dr. Faryaneh Poursardar ([slides](03-24-2022-CS800_Talk_Spring2022_Poursardar.pdf)
+Guest Speaker: Dr. Faryaneh Poursardar ([slides](03-24-2022-CS800_Talk_Spring2022_Poursardar.pdf))
 
 Materials:
 
