@@ -251,7 +251,7 @@ Due by 11:59pm:
 
 * HW5
 
-Guest Speaker: Dr. Jian Wu ([slides](https://www.cs.odu.edu/~mweigle/courses/cs800-s22/03-17-2022-cs800-weigle-jwu.pdf))
+Guest Speaker: Dr. Jian Wu ([slides](03-17-2022-cs800-weigle-jwu.pdf))
 
 ## Week 10
 
@@ -267,11 +267,11 @@ Guest Speaker: Dr. Michael L. Nelson ([slides](https://docs.google.com/presentat
 
 **Thurs, Mar 24** - ODU Faculty Presentations
 
-Guest Speaker: Dr. Faryaneh Poursardar
+Guest Speaker: Dr. Faryaneh Poursardar ([slides](03-24-2022-CS800_Talk_Spring2022_Poursardar.pdf)
 
 Materials:
 
-* Academic Reviewing slides ([Week-08-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview)) [10-]
+* Academic Reviewing slides ([Week-08-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview)) [10-16]
 
 **Assignment**
 
