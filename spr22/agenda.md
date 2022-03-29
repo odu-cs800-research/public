@@ -285,7 +285,6 @@ Materials:
 
 Materials
 
-* Academic Reviewing slides ([Week-08-Reviewing](https://docs.google.com/presentation/d/18n28Oi0cE8ZFJbgl1YbkJSdzmuq0yPrtIkXNb3OhGiU/preview)) [10-]
 * Grants and Grant Writing slides ([Week-11-Grants](https://docs.google.com/presentation/d/1NmHj1ITEM1ieMwAQduX0o9NU-O7QC1gIQ4ND_9_0iRY/preview?slide=id.p1))
 
 Guest Speaker: Dr. Mohammad Almalag, CNU (ODU 2013)
