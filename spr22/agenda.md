@@ -287,7 +287,7 @@ Materials
 
 * Grants and Grant Writing slides ([Week-11-Grants](https://docs.google.com/presentation/d/1NmHj1ITEM1ieMwAQduX0o9NU-O7QC1gIQ4ND_9_0iRY/preview?slide=id.p1))
 
-Guest Speaker: Dr. Mohammad Almalag, CNU (ODU 2013)
+Guest Speaker: Dr. Mohammad Almalag, CNU (ODU 2013) ([slides](03-29-Almalag-ODU_presentation.pdf))
 
 **Thurs, Mar 31** - Two Guest Speakers
 
