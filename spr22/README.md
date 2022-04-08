@@ -35,6 +35,6 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[9](agenda.md#week-9)| Mar 15, 17| ODU-CS Faculty Presentations<br/>**Tue (ONLINE):** Dr. Jiangwen (Javon) Sun <br/>**Thu:** Dr. Jian Wu| | HW5 (Mar 17) |
 |[10](agenda.md#week-10)| Mar 22, 24| ODU-CS Faculty Presentations<br/>**Tue (ONLINE):** Dr. Michael Nelson <br/>**Thu (ONLINE):** Academic Reviewing<br/>*Guest Speaker:* Dr. Faryaneh Poursardar | | draft presentation slides (Mar 22)|
 |[11](agenda.md#week-11)| Mar 29, 31| **Tue:** Grants and Grant Writing<br/>*Guest Speaker:* Dr. Mohammad Almalag, CNU (ODU 2013)<br/>**Thu (ONLINE):** 2 Guest Speakers</br>*Guest Speaker:* Dr. Alexander Nwala, Indiana Univ (ODU 2020)<br/>*Guest Speaker:* Dr. Shahram Mohrehkesh, Intuit (ODU 2015)| | |
-|[12](agenda.md#week-12)| Apr 5, 7| Student Dissertation Presentations<br/>**Tue:** Nathan, Emily<br/>**Thu:** Tarannum, Yasasi, Young | | final presentation slides (Apr 5)|
+|[12](agenda.md#week-12)| Apr 5, 7| Student Dissertation Presentations<br/>**Tue:** Nathan, Emily<br/>**Thu:** Yasasi, Young | | final presentation slides (Apr 5)|
 |[13](agenda.md#week-13)| Apr 12, 14| Student Dissertation Presentations<br/>**Tue:** Omar, John, Yash<br/>**Thu:** Heng, Laura, Mohan  | | |
-|[14](agenda.md#week-14)| Apr 19, 21| Student Dissertation Presentations<br/>**Tue:** Skanda, Xiangrui<br/>**Thu:** Abdulmonem, Brian   | | |
+|[14](agenda.md#week-14)| Apr 19, 21| Student Dissertation Presentations<br/>**Tue:** Skanda, Xiangrui, Tarannum<br/>**Thu:** Abdulmonem, Brian   | | |
