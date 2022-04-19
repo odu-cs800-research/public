@@ -37,4 +37,4 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[11](agenda.md#week-11)| Mar 29, 31| **Tue:** Grants and Grant Writing<br/>*Guest Speaker:* Dr. Mohammad Almalag, CNU (ODU 2013)<br/>**Thu (ONLINE):** 2 Guest Speakers</br>*Guest Speaker:* Dr. Alexander Nwala, Indiana Univ (ODU 2020)<br/>*Guest Speaker:* Dr. Shahram Mohrehkesh, Intuit (ODU 2015)| | |
 |[12](agenda.md#week-12)| Apr 5, 7| Student Dissertation Presentations<br/>**Tue:** Nathan, Emily<br/>**Thu:** Yasasi, Young | | final presentation slides (Apr 5)|
 |[13](agenda.md#week-13)| Apr 12, 14| Student Dissertation Presentations<br/>**Tue:** Omar, John, Yash<br/>**Thu:** Heng, Laura, Mohan  | | |
-|[14](agenda.md#week-14)| Apr 19, 21| Student Dissertation Presentations<br/>**Tue:** Skanda, Xiangrui, Tarannum<br/>**Thu:** Abdulmonem, Brian   | | |
+|[14](agenda.md#week-14)| Apr 19, 21| Student Dissertation Presentations<br/>**Tue:** Xiangrui, Tarannum<br/>**Thu:** Skanda, Abdulmonem, Brian   | | |
